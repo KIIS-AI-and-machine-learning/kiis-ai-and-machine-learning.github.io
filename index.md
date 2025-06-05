@@ -46,13 +46,12 @@
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 1 Homework
-
-1. Finish the reading of  [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1). Section 1.1 only. Do not answer the questions.
-1. Go to [01 Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118/course_templates/536) and complete the microcourse by watching the video, exploring some additional resources, and taking the quiz. You will get a badge!
-2. Go to [Introduction to Generative AI and Large Language Models](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) and either watch the video or read the lesson.
-3. Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned). Note that over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze your own learning using metacognition.
-4. After watching these videos and doing the reading, use your favorite generative AI tool to further explore at least one idea further.Discuss what you chose and why and be sure to link and reference your chat as described in the syllabus in your Fieldpad.
-5. Discuss what you learned from this homework in your own words in your Fieldpad.
+1. Finish the reading of  [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) only up to the first questoin. Do not answer the questions.
+2. Go to [01 Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118/course_templates/536) and complete the microcourse by watching the video, exploring some additional resources, and taking the quiz. You will get a badge!
+3. Go to [Introduction to Generative AI and Large Language Models](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) and either watch the video or read the lesson.
+4. Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned). Note that over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze your own learning using metacognition.
+5. After watching these videos and doing the reading, use your favorite generative AI tool to further explore at least one idea further.Discuss what you chose and why and be sure to link and reference your chat as described in the syllabus in your Fieldpad.
+6. Discuss what you learned from this homework in your own words in your Fieldpad.
 
 **Homework Reflections:**
 (Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the AI and Machine Learning Field Pad to record your in-class reflections.
