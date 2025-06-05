@@ -46,7 +46,7 @@
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 1 Homework
-1. Finish the reading of  [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) only up to the first questoin. Do not answer the questions.
+1. Finish the reading of  [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) only up to the first question. Do not answer the questions. We will complete this next time.
 2. Go to [01 Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118/course_templates/536) and complete the microcourse by watching the video, exploring some additional resources, and taking the quiz. You will get a badge!
 3. Go to [Introduction to Generative AI and Large Language Models](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) and either watch the video or read the lesson.
 4. Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned). Note that over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze your own learning using metacognition.
