@@ -57,7 +57,7 @@
 5. Discuss what you learned from this homework in your own words in your Fieldpad.
 
 **Homework Reflections:**
-(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your in-class reflections.
+(Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the AI and Machine Learning Field Pad to record your in-class reflections.
 
 ### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
 
