@@ -16,7 +16,7 @@
   - Who is in this class?
   - Overview of the course
   - [Google classroom site](https://classroom.google.com/c/NzgxNjQwNjEzNDAz?cjc=5i5bapjb). Please add yourself to the classroom.
-  - [Course Syllabus](https://docs.google.com/document/d/1RQQXr5bMYzmBOjtXHsAXmbZOZL8kW23T/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
+  - [Course Syllabus](https://docs.google.com/document/d/17Hk38t7jdIZX3btouNdg3vToB1pcWL7s/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
   - Go to the [AI and ML Fieldpad](https://drive.google.com/drive/folders/1LhSdMsdJ1YXdxZiB7pcRdu_l_vcpZkLa?usp=sharing) and request access to your own fieldpad. This is where you will record your in-class and homework reflections.
   - [Elements of AI](https://course.elementsofai.com/), and [Building AI](https://buildingai.elementsofai.com/). Note that we will be using this **in class**, so please do not work ahead.
 
