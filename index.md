@@ -30,7 +30,7 @@
 #### Day 1: Field Work
 
 - Read [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
-  - **Prompt 1**: What are the key takeaways from this article? How have you used AI in your own learning? Explain.
+  - **Prompt 1**: What are the key takeaways from this article? How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
 
 - AI might not be as far along today if it were not for Taiwan's chip industry.
 - Read [Taiwan’s new 2nm chip set to power the AI revolution](https://asiatimes.com/2025/04/taiwans-new-2nm-chip-set-to-power-the-ai-revolution/), [Can the U.S. Outpace China in AI and Stop a Chip War Over Taiwan? Experts Clash Over the High-Stakes Semiconductor Race](https://opentodebate.org/news_article/can-the-u-s-outpace-china-in-ai-and-stop-a-chip-war-over-taiwan-experts-clash-over-the-high-stakes-semiconductor-race/), and [Will Trump tip the AI race in China’s favor?](https://www.taipeitimes.com/News/editorials/archives/2025/06/01/2003837840)
@@ -45,8 +45,9 @@
 
 1. Go to [01 Introduction to Generative AI](https://www.cloudskillsboost.google/paths/118/course_templates/536) and complete the microcourse by watching the video, exploring some additional resources, and taking the quiz. You will get a badge!
 2. Go to [Introduction to Generative AI and Large Language Models](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) and either watch the video or read the lesson.
-3. After watching these videos, use your favorite generative AI tool to further explore at least one idea from one of the videos. Link and reference your chat as described in the syllabus in your Fieldpad.
-4. Discuss what you learned from this homework in your own words in your Fieldpad.
+3. Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned)
+4. After watching these videos and doing the reading, use your favorite generative AI tool to further explore at least one idea further.Discuss what you chose and why and be sure to link and reference your chat as described in the syllabus in your Fieldpad.
+5. Discuss what you learned from this homework in your own words in your Fieldpad.
 
 **Homework Reflections:**
 (Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the Cybersecurity Field Pad to record your in-class reflections.
@@ -55,9 +56,9 @@
 - Read [Nvidia to Build AI Supercomputer and New HQ in Taiwan](https://decrypt.co/320840/nvidia-to-build-ai-supercomputer-and-new-hq-in-taiwan)
 - Read [Can the U.S. Outpace China in AI and Stop a Chip War Over Taiwan? Experts Clash Over the High-Stakes Semiconductor Race](https://opentodebate.org/news_article/can-the-u-s-outpace-china-in-ai-and-stop-a-chip-war-over-taiwan-experts-clash-over-the-high-stakes-semiconductor-race/)
 
-1. What are the most important things you learned about the course topics from the readings? Explain.
+1. What are the most important things you learned about the course topics from the homework? Explain.
 2. How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
-3. Over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze this use using metacognition.
+3. Over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze your own learning using metacognition.
 
 ### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
 
