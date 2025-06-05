@@ -36,7 +36,8 @@
 - Read [Taiwan’s new 2nm chip set to power the AI revolution](https://asiatimes.com/2025/04/taiwans-new-2nm-chip-set-to-power-the-ai-revolution/), [Can the U.S. Outpace China in AI and Stop a Chip War Over Taiwan? Experts Clash Over the High-Stakes Semiconductor Race](https://opentodebate.org/news_article/can-the-u-s-outpace-china-in-ai-and-stop-a-chip-war-over-taiwan-experts-clash-over-the-high-stakes-semiconductor-race/), and [Will Trump tip the AI race in China’s favor?](https://www.taipeitimes.com/News/editorials/archives/2025/06/01/2003837840)
   - **Prompt 2**: What are the key takeaways from these articles? Explain.
 
-  - Read [Elements of AI: How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. 
+- Read [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded.
+  - **Prompt 3**: What is your own definition of AI? Does it differ from the definitions in the article? Explain.
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
