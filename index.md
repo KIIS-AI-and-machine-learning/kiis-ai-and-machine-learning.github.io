@@ -6,7 +6,7 @@
 
 ---
 
-## Day 1: June 5 2025
+## Day 1: June 5 2025, 10:30-12:30, Room J316
 
 ### Day 1 Theme: Class Overview - What is AI?
 
