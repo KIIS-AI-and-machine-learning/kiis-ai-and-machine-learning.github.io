@@ -41,7 +41,7 @@
   - After reading all of the above, respond to **Prompt 2**: What are the key takeaways you learned from these four articles? Explain.
 
 - Read as far as you can in [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. **Please remember not to work ahead in this text. We will continue in the text next time.**
-  - Regardless of how far you got in your reading, answer **Prompt 3**: What is your own definition of AI? Does it differ from the definitions in the article? Explain.
+  - Regardless of how far you got in your reading, answer **Prompt 3**: What is your own definition of AI? Explain.
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
