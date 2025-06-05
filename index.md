@@ -32,10 +32,12 @@
 - Read [The Impact of AI on Computer Science Education](https://cacm.acm.org/news/the-impact-of-ai-on-computer-science-education/)
   - **Prompt 1**: What are the key takeaways from this article? How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
 
-- Read [Why war with China over Taiwan could ruin the global economy](https://www.nbcnews.com/news/world/taiwan-war-china-us-ruin-global-economy-semiconductors-chips-rcna91321). Note that this article is from 2023, and the situation has changed since then, but it is still a good overview of the issues.
-- AI might not be as far along today if it were not for Taiwan's chip industry.
-- Read [Taiwan’s new 2nm chip set to power the AI revolution](https://asiatimes.com/2025/04/taiwans-new-2nm-chip-set-to-power-the-ai-revolution/), [Can the U.S. Outpace China in AI and Stop a Chip War Over Taiwan? Experts Clash Over the High-Stakes Semiconductor Race](https://opentodebate.org/news_article/can-the-u-s-outpace-china-in-ai-and-stop-a-chip-war-over-taiwan-experts-clash-over-the-high-stakes-semiconductor-race/), and [Will Trump tip the AI race in China’s favor?](https://www.taipeitimes.com/News/editorials/archives/2025/06/01/2003837840)
-  - **Prompt 2**: What are the key takeaways from these articles? Explain.
+- Read 
+    - [Why war with China over Taiwan could ruin the global economy](https://www.nbcnews.com/news/world/taiwan-war-china-us-ruin-global-economy-semiconductors-chips-rcna91321). Note that this article is from 2023, and the situation has changed since then, but it is still a good overview of the issues.
+  - AI might not be as far along today if it were not for Taiwan's chip industry. Read [Taiwan’s new 2nm chip set to power the AI revolution](https://asiatimes.com/2025/04/taiwans-new-2nm-chip-set-to-power-the-ai-revolution/), 
+  - [Can the U.S. Outpace China in AI and Stop a Chip War Over Taiwan? Experts Clash Over the High-Stakes Semiconductor Race](https://opentodebate.org/news_article/can-the-u-s-outpace-china-in-ai-and-stop-a-chip-war-over-taiwan-experts-clash-over-the-high-stakes-semiconductor-race/), and 
+  - [Will Trump tip the AI race in China’s favor?](https://www.taipeitimes.com/News/editorials/archives/2025/06/01/2003837840)
+  - After reading all of the above, respond to **Prompt 2**: What are the key takeaways from all these articles? Explain.
 
 - Read [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded.
   - **Prompt 3**: What is your own definition of AI? Does it differ from the definitions in the article? Explain.
