@@ -40,11 +40,8 @@
   - and [Will Trump tip the AI race in China’s favor?](https://www.taipeitimes.com/News/editorials/archives/2025/06/01/2003837840)
   - After reading all of the above, respond to **Prompt 2**: What are the key takeaways you learned from these four articles? Explain.
 
-- Read [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded.
-  - **Prompt 3**: What is your own definition of AI? Does it differ from the definitions in the article? Explain.
-
-- If time permits, we will read further in [Elements of AI: Chapter 1](https://course.elementsofai.com) and discuss the questions in your group before having them graded. **We will be using this book in class, so please do not work ahead.**
-  - **Prompt 4**: How has this chapter helped you to think about AI? Explain.
+- Read as far as you can in [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded.
+  - If you have all finished your reading and questions answer **Prompt 3**: What is your own definition of AI? Does it differ from the definitions in the article? Explain.
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
