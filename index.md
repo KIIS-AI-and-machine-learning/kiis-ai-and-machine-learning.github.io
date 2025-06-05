@@ -19,6 +19,7 @@
   - [Course Syllabus](https://docs.google.com/document/d/17Hk38t7jdIZX3btouNdg3vToB1pcWL7s/edit?usp=sharing&ouid=103905169133625663429&rtpof=true&sd=true)
   - Go to the [AI and ML Fieldpad](https://drive.google.com/drive/folders/1LhSdMsdJ1YXdxZiB7pcRdu_l_vcpZkLa?usp=sharing) and request access to your own fieldpad. This is where you will record your in-class and homework reflections.
   - [Elements of AI](https://course.elementsofai.com/), and [Building AI](https://buildingai.elementsofai.com/). Note that we will be using this **in class**, so please do not work ahead.
+  - KIIS takes pride in high academic standards, but also requires that all courses be prerequisite-free. KIIS strongly encourages a *Place-As-Text* approach, which helps students learn content via international context.
 
 - Some questions to keep in mind today and throughout the course:
   - What is AI? What about generative AI?
