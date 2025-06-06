@@ -32,7 +32,7 @@
 - Working with your partner (s), return to the Elements of AI textbook and discuss the questions in [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1), When you reach consensus, go ahead and have the questions graded.
 
 - After finishing section, work through the rest of chapter 1, stopping each time you reach a question. Discuss the questions in your group, and when you reach consensus, have the questions graded.
-  - **Prompt 2**: Is this technique of working in groups to answer questions useful to you? Why or why not? Explain.
+  - **Prompt 3**: This technique of working in groups to answer questions is designed to get you to discuss the material with your peers, which is a great way to learn for many. How did it help you understand the material? Explain.
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
