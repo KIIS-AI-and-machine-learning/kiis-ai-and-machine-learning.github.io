@@ -42,6 +42,7 @@
 1. Watch [Introduction to Large Language Models: Video](https://www.cloudskillsboost.google/paths/118/course_templates/539/video/518194)
 1. Explore some additional reading from [Introduction to Large Language Models: Readings](https://www.cloudskillsboost.google/paths/118/course_templates/539/documents/518195)
 1. Take [Introduction to Large Language Models: Quiz](https://www.cloudskillsboost.google/paths/118/course_templates/539/quizzes/518196), getting at least 80% correct.
+1. If you did not finish the reading of [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1), finish the reading for homework, but do not answer the questions alone. We will work on it in class.
 1. Discuss what you learned from this homework in your own words in your Fieldpad.
 
 ---
