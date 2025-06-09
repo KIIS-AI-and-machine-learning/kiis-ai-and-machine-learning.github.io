@@ -6,7 +6,7 @@
 
 ---
 
-## Day 3: June 6 2025, 10:30-12:30, Room J413
+## Day 3: June 9, 2025, 10:30-12:30, Room J413
 
 ### Day 3 Theme: Search and Problem Solving
 
