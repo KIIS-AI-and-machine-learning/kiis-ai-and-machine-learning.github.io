@@ -6,6 +6,52 @@
 
 ---
 
+## Day 3: June 6 2025, 10:30-12:30, Room J413
+
+### Day 3 Theme: Search and Problem Solving
+
+#### Day 3 class
+
+- Discuss homework from Day 2:
+  - How much time did you spend on the homework?
+  - Let's show and tell with what you did with the AI tools you chose. What did you learn from using these tools?
+  - What did you learn from the video on Large Language Models?
+  - [Peer Instruction Day 2](https://runestone.academy/assignment/student/doAssignment?assignment_id=222691)
+
+#### Day 3: Field Work
+
+- My goal for today is to help you to better understand the basics of search and problem solving in AI, and to give you a chance to practice using an AI-generated tool to solve a problem. I am hoping we can finish chapter 2 of the Elements of AI textbook today, but we will see how it goes.
+
+- I wanted to make it easier for you to solve the first problem in [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1). So we will discuss it and then I will show you a tool that I used an AI to build... It took a LONG time because my prompt engineering wasn't great in retrospect and the AI kept making mistakes.
+
+- Note that the Robot can only carry 1 item per trip, the Fox can't be alone with the Chicken, and the Chicken can't be alone with the Feed. Also note that N stands for Near and F stands for Far for each postion, while the items are positional with Robot=1 Fox=2 Chicken=3 Chicken-feed=4.
+  - **Prompt 1**: What is the initial state of the problem? What is the goal state? Explain.
+
+  - **Prompt 2**:  Identify some states in the state space that are not valid states. What are they? Explain.
+
+  - **Prompt 3**: Identify some illegal transitions between valid states. What are they? Explain.
+
+  - **Prompt 4**: Try to find the shortest path to the goal state using [Rowboat Puzzle: Find the Shortest Path](https://claude.ai/public/artifacts/ba5fdd00-85d7-4c1d-8e6c-92e2bccdbed2)
+
+- Continue working through [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1), stopping each time you reach a question. Discuss the questions in your group, and when you reach consensus, have the questions graded. Then move on. Please let me know when you have finished the section. I can't share the chat directly because it uses advanced features, but I want to show it as best as I can so we can discuss it. See [Chat](https://docs.google.com/document/d/186xZNKUMNSMK6xeE38CcaIyGB-0JIl4DujzzAKzWNZE/edit?usp=sharing).
+- **Prompt 5**: What mistakes did I make in my prompt engineering? How could I have done better? Explain.
+
+- To better understand the Minimax algorithm, watch [Simple Explanation of the Minimax Algorithm with Tic-Tac-Toe](https://youtu.be/5y2a0Zhgq0U?feature=shared). This should help with [Elements of AI: 2.3 Search and Games](https://course.elementsofai.com/2/3).
+
+- Please keep me posted on your progress in the Elements of AI textbook. I will be checking in with you to see how you are doing.
+
+- **Post-class reflection:** How far did you get in the textbook? What did you learn today? Explain.
+
+#### Day 3: Homework
+
+1. Read the first part of [Odds and Probability](https://course.elementsofai.com/3/1) but don't answer any questions, instead just stop reading at the first question. We will work on this together in class next time. Discuss what you learned from this reading as well as any questions in your Fieldpad.
+
+1. Play several rounds of [Quick Draw with Google](https://quickdraw.withgoogle.com/). Discuss your experience in your Fieldpad. What happened in each round? How did the AI do? What did you learn from this experience? What do you think the tool learned?
+
+1. Play several rounds of [Google's Say What you See](https://artsandculture.google.com/experiment/say-what-you-see/jwG3m7wQShZngw), which is a game that tries to help you with prompt engineering. Discuss your experience in your Fieldpad. What happened in each round? What did you learn from this experience?
+
+---
+
 ## Day 2: June 6 2025, 10:30-12:30, Room J316
 
 ### Day 2 Theme: AI and Related Fields
