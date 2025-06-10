@@ -24,7 +24,7 @@
 
 - Probability is a key part of AI and it is not super-hard to understand. Probability is the chance of an event happening, expressed as a fraction, decimal, or percentage. For a fair six-sided die the **probability** of rolling any particular number like 3 is 1/6 ≈ 0.167 or 16.7%. **Odds** compare the number of ways something can happen versus the number of ways it can't happen. They're expressed as a ratio.
 For rolling a 3, since there is 1 way to roll a 3 and 5 ways to not roll a 3
-the Odds of rolling a 3 are 1:5. **Remember the following key points: Probability can be quantified and it can be right or wrong, but it is usually not possible to draw conclusions about whether a particular number was right or wrong based on a single observation, unless that probability is 0 or 1.
+the Odds of rolling a 3 are 1:5. **Remember the following key points: Probability can be quantified and it can be right or wrong, but it is usually not possible to draw conclusions about whether a particular number like a weather forecast  probability was right or wrong based on a single observation, unless that probability is 0 or 1.**
   - **Prompt 1**: Explain why it is usually not possible to draw conclusions about whether a particular number was right or wrong based on a single observation, unless that probability is 0 or 1.
 
 - Bayes Rule is a bit complicated because it is based on conditional probability, and you can just apply the formula, but it is better to understand it. Let's watch [What Is Bayes Theorem In AI? - The Friendly Statistician](https://youtu.be/JOVrcj4a1qc?feature=shared).
@@ -40,14 +40,14 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 
 - On Saturday, June 21, we will take a field trip to TSMC in Hsinchu. It is a 30 minute bus ride, and working in teams of 2-3, you will be giving short 5-6 minute presentations while on the bus. The topics are below, and each team will have one assigned topic. You are expected to try out **multiple** different AI tools to help you with this research, and you will be reporting back to our class which of these tools proved most useful. The bullets under each group are just suggestions for what to include in your presentation. The presentation on the bus will count in the homework component of your grade, and you will give a couple of practice presenations in class that count in the participation component of your grade. **The first of these practice presentations will be tomorrow in class with an additional 1-2 minutes comparing and contrasting the different AI tools you used to help you with your research.** Your goal is to try to make an engaging presentation that will help your classmates understand the topic and its relevance to AI and Taiwan. A presentation on a bus is a difficult format, so try to think about how to make it engaging and interesting.
 
-Group 1: What TSMC Makes and Why It Matters to All of Us
+**Austin and Elijah**: What TSMC Makes and Why It Matters to All of Us
 - Explanation of computer chips in everyday devices (phones, cars, gaming consoles)
 - How semiconductors enable modern technology including specialized chips that power AI (GPUs for ChatGPT, Tesla's self-driving cars, smartphone AI features, etc.)
 - Why smaller, faster chips matter
 - Security in TSMC chips in devices (iPhone's Secure Enclave, TPM chips in laptops, hardware-based encryption)
 - Simple overview of manufacturing challenges
 
-Group 2: TSMC's Business Success Story
+**Eun Sung and Evan**: TSMC's Business Success Story
 - How TSMC became a global giant by focusing on manufacturing for other companies
 - Major brand partnerships (Apple iPhones, gaming graphics cards, etc.)
 - Economic impact: jobs, revenue, and Taiwan's tech boom
@@ -55,14 +55,14 @@ Group 2: TSMC's Business Success Story
 - Competition with companies like Samsung and Intel
 - Growing demand for security-focused semiconductors and secure chip manufacturing
 
-Group 3: Taiwan's "Silicon Shield" - Technology and Geopolitics
+**Colin and Login**: Taiwan's "Silicon Shield" - Technology and Geopolitics
 - Why the world depends on Taiwan for chips
 - How this creates both economic power and political tension
 - Control over AI chip production as geopolitical leverage; export restrictions on advanced AI chips to China
 - Recent chip shortages and their impact (car industry, gaming consoles)
 - US-China-Taiwan technology relationships and national security concerns about chip supply chains; hardware backdoors and supply chain security
 
-Group 4: Hsinchu - Taiwan's Silicon Valley
+**Charlotte and Dim**: Hsinchu - Taiwan's Silicon Valley
 - Transformation from farmland to high-tech hub
 - AI startups and research centers in the science park; talent pipeline for AI chip design
 - Comparison to Silicon Valley in California
@@ -70,7 +70,7 @@ Group 4: Hsinchu - Taiwan's Silicon Valley
 - Cultural blend of traditional Taiwan and modern innovation
 - Cybersecurity companies and research institutes; protecting Taiwan's tech infrastructure
 
-Group 5: The Human and Environmental Side
+**Emmaley, Jasmine, and Kyla**: The Human and Environmental Side
 - Working conditions and employee life at TSMC
 - Environmental challenges (water usage, energy consumption)
 - Ethical considerations of enabling AI through chip manufacturing; energy consumption of AI data centers
