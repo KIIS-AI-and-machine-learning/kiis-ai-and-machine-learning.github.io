@@ -27,12 +27,10 @@ For rolling a 3, since there is 1 way to roll a 3 and 5 ways to not roll a 3
 the Odds of rolling a 3 are 1:5. **Remember the following key points: Probability can be quantified and it can be right or wrong, but it is usually not possible to draw conclusions about whether a particular number was right or wrong based on a single observation, unless that probability is 0 or 1.
   - **Prompt 1**: Explain why it is usually not possible to draw conclusions about whether a particular number was right or wrong based on a single observation, unless that probability is 0 or 1.
 
-- A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Conditional probability](https://setosa.io/conditional/)
-  - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life.
-
 - Bayes Rule is a bit complicated because it is based on conditional probability, and you can just apply the formula, but it is better to understand it. Let's watch [What Is Bayes Theorem In AI? - The Friendly Statistician](https://youtu.be/JOVrcj4a1qc?feature=shared).
-- Watch [seeing bayes theorem](https://youtu.be/jRHw_LfQFAY?feature=shared)
-  - **Prompt 3**: Did this help you understand Bayes Rule better? Explain.
+- Watch [seeing bayes theorem](https://youtu.be/jRHw_LfQFAY?feature=shared).
+- A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Conditional probability](https://setosa.io/conditional/).
+  - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life. Did any of these help you understand Bayes Rule better? Explain.
 
 - We might or might not finish chapter 3 today, but we will try to get through at least two sections. I want you to have time to work on the presentation.
 
