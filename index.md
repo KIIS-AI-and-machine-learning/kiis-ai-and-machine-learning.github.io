@@ -28,20 +28,21 @@ For each of the five presentations, here is the prompt for all non-presenters. Y
 
 - Following **all of the presentations**, each team will read the feedback from the other students, discuss and summarize how you plan to use the suggestions, first writing in your Fieldpad, and then sharing your summary in Google Classroom. **Do NOT start reading the feedback on your presentation until after all of the presentations are done.**
 
+### Day 5: Post-class presentation activities
 
-- [Naive Bayes, Clearly Explained!!!](https://youtu.be/O2L2Uv9pdDA?feature=shared)
-  - **Prompt 1**: From this, describe Naive Bayes classification in your own words. How does it work? Explain.
+- Watch [Naive Bayes, Clearly Explained!!!](https://youtu.be/O2L2Uv9pdDA?feature=shared)
+  - **Post-Presentations Prompt 1**: From this, describe Naive Bayes classification in your own words. How does it work? Explain.
 
 - After the presentations, we will continue with the Elements of AI textbook, starting with [Elements of AI 3: Probability](https://course.elementsofai.com/3/3). We will try to finish this chapter today, but if we don't, we will finish it next time.
 
 - [Machine Learning Explained in 100 Seconds](https://youtu.be/PeMlggyqz0Y?feature=shared)
-  - **Prompt 2**: Describe  what you learned from this short video.
+  - **Poste-Presentations Prompt 2**: Describe  what you learned from this short video.
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 5: Homework
 
-1. Jump ahead in the Elements of AI textbook to [Elements of AI 4: Machine](https://course.elementsofai.com/4/1) and read the entire chapter, but do not answer any of the questions yet. We will work on this together in class next time.
+1. Jump ahead in the Elements of AI textbook to [Elements of AI 4: Machine](https://course.elementsofai.com/4) and read the first two sections of the chapter, but do not answer any of the questions yet. We will work on this together in class next time.
 1. Spend 20 minutes using [AI Tutor Pro](https://www.aitutorpro.ca/) to deepen your understanding of the material in chapter 4.
 1. Write a reflection of several paragraphs in your Fieldpad about your experience using [AI Tutor Pro](https://www.aitutorpro.ca/).
 
