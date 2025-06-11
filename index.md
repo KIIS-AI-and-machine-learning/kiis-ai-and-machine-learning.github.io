@@ -14,10 +14,7 @@
 
 #### Day 5 class
 
-I have two goals for today:
-  1. To improve the upcoming presentations by giving you feedback.
-    - Note that the practice presentations themselves will be graded solely on participation, while the feedback given will be graded as homework based on the quality of the feedback. 
-  2. To keep making progress in the Elements of AI textbook before we get started on the presentations, I want to watch two videos, one that explains Naive Bayes Classification and the second that introduces the concept of Machine Learning. They are both fairly short.
+I have one major goal for today: To improve the upcoming presentations by giving you feedback. Note that the practice presentations themselves will be graded solely on participation, while the feedback given will be graded as homework based on the quality of the feedback. 
 
 For each of the five presentations, here is the prompt for all non-presenters. You will first write in your Fieldpad, and then you will share the feedback with the presenters via Google Classroom.
 - **Prompt: Project presenter names:**
@@ -26,22 +23,17 @@ For each of the five presentations, here is the prompt for all non-presenters. Y
 - **In your opinion, what are some possible improvements for this project? Please make at least one substantive suggestion for the presenters. Be kind, and explain your suggestion.**
 - **On a scale of 1 (super boring) to 10 (extremely interesting), how interesting was this project to you? What could the presenters do to make it more interesting?**
 
-- Following **all of the presentations**, each team will read the feedback from the other students, discuss and summarize how you plan to use the suggestions, first writing in your Fieldpad, and then sharing your summary in Google Classroom. **Do NOT start reading the feedback on your presentation until after all of the presentations are done.**
+- Following **all of the presentations**, each team will read the feedback from the other students, discuss and summarize how you plan to use the suggestions, first writing in your Fieldpad, and then sharing your summary in Google Classroom. **Do NOT keep reading the feedback on your presentation while anyone else is presenting.** If you need to complete your response as homework, that is fine. It is also fine to use an AI tool to help your synthesize the feedback, just give it credit if you do so.
 
-### Day 5: Post-class presentation activities
-
-- Watch [Naive Bayes, Clearly Explained!!!](https://youtu.be/O2L2Uv9pdDA?feature=shared)
-  - **Post-Presentations Prompt 1**: From this, describe Naive Bayes classification in your own words. How does it work? Explain.
-
-- After the presentations, we will continue with the Elements of AI textbook, starting with [Elements of AI 3: Probability](https://course.elementsofai.com/3/3). We will try to finish this chapter today, but if we don't, we will finish it next time.
-
-- [Machine Learning Explained in 100 Seconds](https://youtu.be/PeMlggyqz0Y?feature=shared)
-  - **Poste-Presentations Prompt 2**: Describe  what you learned from this short video.
+- ~~If time permits, we will watch [Naive Bayes, Clearly Explained!!!](https://youtu.be/O2L2Uv9pdDA?feature=shared)~~
+  - ~~**Post-Presentations Prompt 1**: From this, describe Naive Bayes classification in your own words. How does it work? Explain.~~
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 5: Homework
 
+1. If you did not complete this in class, discuss and summarize how you plan to use the suggestions on your presentation.
+1. Watch [Machine Learning Explained in 100 Seconds](https://youtu.be/PeMlggyqz0Y?feature=shared) and describe  what you learned from this short video.
 1. Jump ahead in the Elements of AI textbook to [Elements of AI 4: Machine](https://course.elementsofai.com/4) and read the first two sections of the chapter, but do not answer any of the questions yet. We will work on this together in class next time.
 1. Spend 20 minutes using [AI Tutor Pro](https://www.aitutorpro.ca/) to deepen your understanding of the material in chapter 4.
 1. Write a reflection of several paragraphs in your Fieldpad about your experience using [AI Tutor Pro](https://www.aitutorpro.ca/).
