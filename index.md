@@ -97,7 +97,7 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 - Competition with companies like Samsung and Intel
 - Growing demand for security-focused semiconductors and secure chip manufacturing
 
-**Colin and Login**: Taiwan's "Silicon Shield" - Technology and Geopolitics
+**Colin and Logan**: Taiwan's "Silicon Shield" - Technology and Geopolitics
 - Why the world depends on Taiwan for chips
 - How this creates both economic power and political tension
 - Control over AI chip production as geopolitical leverage; export restrictions on advanced AI chips to China
