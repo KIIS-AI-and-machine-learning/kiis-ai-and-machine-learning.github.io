@@ -37,6 +37,9 @@ Your notebook should:
 - sharing of the link so the class can try it out
 - question and answers
 
+### 5. References
+- Be sure to include references to all sources and tools you use, collecting these as you work on your project. This should include tutorials, documentation, datasets, etc.
+
 ## Suggested Topics
 
 ### From Building AI Textbook:

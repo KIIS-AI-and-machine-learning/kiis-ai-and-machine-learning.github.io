@@ -6,6 +6,13 @@
 
 ---
 
+## Final Project: AL and ML Colab Notebook
+
+- Project Proposal due Monday, June 16, 2025 8 am - submit a link to your Google Colab notebook in the Google Classroom. Here is an [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing). Be sure to read the proposal and project requirements in [Details of the final project](project.md).
+- [Details of the final project](project.md) due Monday, June 23, 2025 10:30 am
+
+---
+
 ## Day 6: June 12, 2025, 10:30-12:30, Room J415
 
 ### Day 6 Theme: Google Colab Notebooks 
@@ -32,7 +39,7 @@
 
 #### Day 6: Homework
 
-- Complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
+- Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
 - Finish reading Chapter 4 in Elements of AI
 
 ## Day 5: June 11, 2025, 10:30-12:30, Room H505 on the main campus
