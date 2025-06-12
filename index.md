@@ -23,11 +23,11 @@
 
 - Let's explore a notebook [Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1k91td8BVfnMPQ0FyO1RiJe_suX_fRXH8?usp=sharing)
   - Try using Gemini to explain something in the notebook. For example, try asking it to explain a particular bit of code. To modify, this notebook, you will need to make a copy. Try that and then make changes to the notebook.
-    - **Prompt 2**: How easy did you find Google Colab to use and modify? How helpful was Gemini?
+    - **Prompt 1**: How easy did you find Google Colab to use and modify? How helpful was Gemini?
 
 - Discuss [Final Project](project.md)
   - when you have finished the above explorations, you can begin work on your project propsosal.
-  
+
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 6: Homework
