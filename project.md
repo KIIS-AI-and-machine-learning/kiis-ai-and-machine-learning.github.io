@@ -1,4 +1,4 @@
-# AI/ML Final Project Proposal
+# AI/ML Final Project, Due Monday, June 23, 10:30 AM
 
 ## Project Overview
 
@@ -32,7 +32,7 @@ Your notebook should:
 - Include **clear explanations** suitable for your classmates
 - Demonstrate the AI/ML concept with **practical examples** with **working code** that others can run successfully
 
-### 4. Demonstration of your project on Monday, June 23, out last day of class.
+### 4. Demonstration of your project on Monday, June 23, our last day of class.
 - an informal demonstration of your notework
 - sharing of the link so the class can try it out
 - question and answers
@@ -57,7 +57,9 @@ Your notebook should:
 - **AI in Finance**: Fraud detection or algorithmic trading
 - **AI Ethics**: Fairness testing or bias detection in AI systems
 
-## Proposal Format
+---
+
+## Project Proposal, Due Monday, June 16, 2025 8 am in Google Classroom
 
 Submit a link to a **1 page proposal** in Google Colab that includes:
 
