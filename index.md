@@ -40,6 +40,7 @@
 #### Day 6: Homework
 
 - Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
+- I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your proposal to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
 - Finish reading Chapter 4 in Elements of AI
 
 ## Day 5: June 11, 2025, 10:30-12:30, Room H505 on the main campus
