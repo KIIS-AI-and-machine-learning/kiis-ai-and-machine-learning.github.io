@@ -6,15 +6,42 @@
 
 ---
 
+## Day 6: June 12, 2025, 10:30-12:30, Room J415
+
+### Day 6 Theme: Google Colab Notebooks 
+
+#### Day 6 class
+
+- Goals for today:
+  - Learn how to use Google Colab notebooks.
+  - Practice using Gemini to explain code in the notebook.
+  - Explore the Elements of AI notebook in Colab while completing chapter 3.
+  - Discuss final project.
+
+- Watch [Colab Environment + Basics](https://youtu.be/H8mhcIRsnh8?feature=shared). If you like this, she has a whole series on Colab.
+- [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
+- Watch [Naive Bayes, Clearly Explained!!!](https://youtu.be/O2L2Uv9pdDA?feature=shared)
+  - **Prompt 1**: From this, describe Naive Bayes classification in your own words. How does it work? Explain.
+
+- Let's explore a notebook [Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1k91td8BVfnMPQ0FyO1RiJe_suX_fRXH8?usp=sharing)
+  - Try using Gemini to explain something in the notebook. For example, try asking it to explain a particular bit of code.
+
+- Discuss [Final Project](project.md)
+
+#### Day 6: Homework
+
+- Complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
+- Finish reading Chapter 4 in Elements of AI
+
 ## Day 5: June 11, 2025, 10:30-12:30, Room H505 on the main campus
  
- - You can leave at either 8 am or 10 am depending on your schedule. We will be meeting in Room H505 on the main campus.
+- You can leave at either 8 am or 10 am depending on your schedule. We will be meeting in Room H505 on the main campus.
 
 ### Day 5 Theme: TSMC Field Trip Presentations
 
 #### Day 5 class
 
-I have one major goal for today: To improve the upcoming presentations by giving you feedback. Note that the practice presentations themselves will be graded solely on participation, while the feedback given will be graded as homework based on the quality of the feedback. 
+I have one major goal for today: To improve the upcoming presentations by giving you feedback. Note that the practice presentations themselves will be graded solely on participation, while the feedback given will be graded as homework based on the quality of the feedback.
 
 For each of the five presentations, here is the prompt for all non-presenters. You will first write in your Fieldpad, and then you will share the feedback with the presenters via Google Classroom.
 - **Prompt: Project presenter names:**
