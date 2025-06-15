@@ -36,7 +36,7 @@
   - **Prompt 3**: In a full paragraph discuss your thoughts on the potential of Project Euphonia.
 
 - Go to [Teachable Machine](https://teachablemachine.withgoogle.com/) and train it to distinguish between two different things. For example, your face and your partner's face or your cell phone and your partner's cell phone. 
-  - **Prompt 4**: How well did the teachable work? Could you overfit the data? Explain.
+  - **Prompt 4**: How well did the teachable work? Is it using suervised or unserpervised learning. Explain. Could you overfit the data? Explain.
 
 - Work through as much as you can of chapter 4 in the Elements of AI textbook.
 - If you complete chapter 4, you can work on your [final project](project.md).
