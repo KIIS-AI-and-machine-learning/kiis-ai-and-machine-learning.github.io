@@ -13,6 +13,44 @@
 
 ---
 
+## Day 7: June 16, 2025, 10:30-12:30, Room J415
+
+### Day 7 Theme: Machine Learning
+
+#### Day 7 class
+
+- Discuss [Final Project](project.md)
+- Discuss chapter 4 of the Elements of AI textbook reading.
+
+ Goals for today:
+  - Learn some of the math behind Elements of AI chapter 4 more deeply.
+  - Complete the Elements of AI chapter 4 on Machine Learning.
+  - Try out a machine learning tool called teachable machine.
+
+- Complete [P13-Machine-Learning](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
+- Watch Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA?feature=shared) noting down the key points.
+  - **Prompt 1**: What is bias in machine learning? What is variance? How do they relate to each other? Explain.
+- Watch [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8?feature=shared), noting down the key points.
+  - **Prompt 2**: What is logistic regression? How does it differ from linear regression? How is it used in machine learning? Explain.
+- Watch [Project Euphonia: Helping everyone be better understood](https://youtu.be/OAdegPmkK-o?feature=shared)
+  - **Prompt 3**: In a full paragraph discuss your thoughts on the potential of Project Euphonia.
+
+- Go to [Teachable Machine](https://teachablemachine.withgoogle.com/) and train it to distinguish between two different things. For example, your face and your partner's face or your cell phone and your partner's cell phone. 
+  - **Prompt 4**: How well did the teachable work? Could you overfit the data? Explain.
+
+- Work through as much as you can of chapter 4 in the Elements of AI textbook.
+- If you complete chapter 4, you can work on your [final project](project.md).
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 7: Homework
+
+- Read Chapter 5 in Elements of AI, without answering the questions yet. We will work on this together in class next time.
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 6: June 12, 2025, 10:30-12:30, Room J415
 
 ### Day 6 Theme: Google Colab Notebooks 
@@ -41,7 +79,8 @@
 
 - Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
 - I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your proposal to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
-- Finish reading Chapter 4 in Elements of AI
+- Finish reading Chapter 4 in Elements of AI, without answering the questions yet.
+- Complete homework entry in your Fieldpad.
 
 ## Day 5: June 11, 2025, 10:30-12:30, Room H505 on the main campus
  
