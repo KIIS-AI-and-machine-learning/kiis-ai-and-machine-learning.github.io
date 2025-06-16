@@ -29,9 +29,9 @@
 
 - Complete [P13-Machine-Learning](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
 - Watch [Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA?feature=shared) noting down the key points.
-  - **Prompt 1**: What is bias in machine learning? What is variance? How do they relate to each other? Explain.
 - Watch [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8?feature=shared), noting down the key points.
-  - **Prompt 2**: What is logistic regression? How does it differ from linear regression? How is it used in machine learning? Explain.
+  - **Prompt 1**: What is bias in machine learning? What is variance? How do they relate to each other? Explain.
+  - **Prompts 2**: What is logistic regression? How does it differ from linear regression? How is it used in machine learning? Explain.
 - Watch [Project Euphonia: Helping everyone be better understood](https://youtu.be/OAdegPmkK-o?feature=shared)
   - **Prompt 3**: In a full paragraph discuss your thoughts on the potential of Project Euphonia.
 
