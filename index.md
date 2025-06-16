@@ -28,7 +28,7 @@
   - Try out a machine learning tool called teachable machine.
 
 - Complete [P13-Machine-Learning](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
-- Watch Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA?feature=shared) noting down the key points.
+- Watch [Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA?feature=shared) noting down the key points.
   - **Prompt 1**: What is bias in machine learning? What is variance? How do they relate to each other? Explain.
 - Watch [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8?feature=shared), noting down the key points.
   - **Prompt 2**: What is logistic regression? How does it differ from linear regression? How is it used in machine learning? Explain.
@@ -36,7 +36,7 @@
   - **Prompt 3**: In a full paragraph discuss your thoughts on the potential of Project Euphonia.
 
 - Go to [Teachable Machine](https://teachablemachine.withgoogle.com/) and train it to distinguish between two different things. For example, your face and your partner's face or your cell phone and your partner's cell phone. 
-  - **Prompt 4**: How well did the teachable work? Is it using suervised or unserpervised learning. Explain. Could you overfit the data? Explain.
+  - **Prompt 4**: How well did the teachable work? Is it using supervised or unsupervised learning. Explain. Could you overfit the data? Explain.
 
 - Work through as much as you can of chapter 4 in the Elements of AI textbook.
 - If you complete chapter 4, you can work on your [final project](project.md).
