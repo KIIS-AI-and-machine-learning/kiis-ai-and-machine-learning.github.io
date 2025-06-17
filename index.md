@@ -25,12 +25,12 @@
 - Watch [The Essential Main Ideas of Neural Networks](https://youtu.be/CqOfi41LfDw?feature=shared)
   - **Prompt 1**: What are the key takeaways from this video in terms of how curve-fitting in neural networks is accomplished? Explain.
 
-- I was able to find two visualization tools for neural networks that I think you will find useful. The first is [TensorFlow Playground](https://playground.tensorflow.org/), which is a great way to visualize how neural networks work. The second is on convolutional neural networks, the [CNN Explainer](https://poloclub.github.io/cnn-explainer/). Play with each of these for about 2-3 minutes each.
+- I was able to find two visualization tools for neural networks that I think you will find useful. The first is [TensorFlow Playground](https://playground.tensorflow.org/), which is a great way to visualize how neural networks work. The second is on convolutional neural networks, the [CNN Explainer](https://poloclub.github.io/cnn-explainer/). Play with each of these for about 2-3 minutes each. Talk to you partner(s) about what is happening before you answer the prompt. Talk to you partner(s) about what is happening before you answer the prompt.
   - **Prompt 2**:  Describe how the changes you made affected the outputs.
 
 - Go to Elements of AI and answer the chapter 5 questions. 
-- Go to the Building AI book and read the first two questions of chapter 4, and then answer the beginner level questions in these two sections with your partner. Talk to you partner(s) about what is happening before you answer the prompt.
-  - **Prompt 3**: How did this go and what did you see/learn? Explain.
+- Go to the Building AI book and read the first two questions of chapter 4, and then answer the beginner level questions in these two sections with your partner. Talk to you partner(s) before answering the questions.
+  - **Prompt 3**: How did this go and what did you learn? Explain.
 
 - If you finish the above, you can work on your [final project](project.md).
 
