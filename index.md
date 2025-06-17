@@ -13,6 +13,38 @@
 
 ---
 
+## Day 9: June 18, 2025, 10:30-12:30, Room J505
+
+### Day 9 Theme: Ethics and AI + Make Progress on Deliverables
+
+#### Day 9 class
+
+- Goals for today:
+  - Discuss the textbook reading from chapter 6 and do the peer instruction problems.
+  - Learn about how the ethical issues surrounding AI are percieved in Taiwan and the US and how the governments are responding to these issues.
+  - Practice and refine talks for our field trip presentations.
+  - Work on final project
+
+- Complete [Peer Instruction Questions: PI5-Ethical-AI](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
+
+- Read the abstract and then read the portions of the article that interest you from [Ethical Concerns With Regards to Artificial Intelligence: A National Public Poll in Taiwan](https://ieeexplore.ieee.org/document/10677428)
+- Read [Explaining Taiwan’s AI Basic Act](https://english.cw.com.tw/article/article.action?id=3910) and then research where the US is in terms of AI regulation.
+  - **Prompt 1**:  Discuss the situation in Taiwan and the US regarding AI regulation. What are the key differences from the US that you found? Explain.
+
+- Take 30 minutes to practice and refine your field trip presentations in your teams.
+  - **Prompt 2**: How did the practice presentation go? What did you accomplish? Explain.
+
+- When you finish the above, you can work on your [final project](project.md).
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 8: Homework
+
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 8: June 17, 2025, 10:30-12:30, Room J505
 
 ### Day 8 Theme: Neural Networks
