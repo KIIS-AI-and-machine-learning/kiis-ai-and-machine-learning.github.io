@@ -19,11 +19,13 @@
 
 #### Day 8 class
 
-- Discuss homework from Day 7:
+- Discuss homework from Day 7.
 - How are the projects coming along? One of my goals for today is to give you time to work on your projects, so I will be available to help you with them, but first we will focus on neural networks.
 
 - Watch [The Essential Main Ideas of Neural Networks](https://youtu.be/CqOfi41LfDw?feature=shared)
   - **Prompt 1**: What are the key takeaways from this video in terms of how curve-fitting in neural networks is accomplished? Explain.
+
+- Complete [Peer Instruction Questions: PI4-Neural-Networks](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
 
 - I was able to find two visualization tools for neural networks that I think you will find useful. The first is [TensorFlow Playground](https://playground.tensorflow.org/), which is a great way to visualize how neural networks work. The second is on convolutional neural networks, the [CNN Explainer](https://poloclub.github.io/cnn-explainer/). Play with each of these for about 2-3 minutes each. Talk to you partner(s) about what is happening before you answer the prompt. Talk to you partner(s) about what is happening before you answer the prompt.
   - **Prompt 2**:  Describe how the changes you made affected the outputs.
@@ -38,7 +40,7 @@
 
 #### Day 8: Homework
 
-- Read Chapter 6 in Elements of AI, without answering the questions yet. We will work on this together in class next time.
+- Read Chapter 6 in Elements of AI. This time **answer the questions** because they are essays and have no right or wrong answers. We will discuss them in class next time. Be sure you also do the peer reviews of other submissions.
 - Make progress on your [final project](project.md).
 - Complete homework entry in your Fieldpad.
 
