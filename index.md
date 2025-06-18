@@ -38,8 +38,9 @@
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
-#### Day 8: Homework
+#### Day 9: Homework
 
+- Be prepared to give your field trip presentation tomorrow. Even though the actual public presentation is on Saturday, tomorrow's is the one that I will grade.
 - Make progress on your [final project](project.md).
 - Complete homework entry in your Fieldpad.
 
