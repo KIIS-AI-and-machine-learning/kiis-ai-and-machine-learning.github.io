@@ -29,8 +29,10 @@ Create a Google Colab notebook that includes:
 ### 3. Technical Requirements
 Your notebook should:
 - Be **self-contained** (all necessary imports and setup included)
-- Include **clear explanations** suitable for your classmates
+- Include **clear and well-written jargon-free explanations** suitable for your classmates to understand and use
 - Demonstrate the AI/ML concept with **practical examples** with **working code** that others can run successfully
+- Be professionally written with **proper formatting**, **grammar**, and **spelling**
+- Be sure to include **visualizations** (graphs, charts, etc.) to illustrate key points
 
 ### 4. Demonstration of your project on Monday, June 23, our last day of class.
 - an informal demonstration of your notework
@@ -64,21 +66,34 @@ Your notebook should:
 
 ## Project Proposal, Due Monday, June 16, 2025 8 am in Google Classroom
 
-Submit a link to a **1 page proposal** in Google Colab that includes:
+Submit a link to a **300-400 word proposal** in Google Colab that includes:
 
 ### Team Information
 - **Team members names**
 - **A team name**
 
 ### Project Description
-- **Topic chosen** and a brief explanation of the topic itself.
+- **Topic chosen** and a brief explanation of the topic itself and what you want to build or analyze in that topical area
 - **Why this topic interests your team** (personal connection, career relevance, curiosity, etc.)
 - **What specific aspect** you plan to focus on
 - **Key concepts** you plan to explain and demonstrate
+- **Data source** - what datasets you'll use (check [Kaggle](https://www.kaggle.com/) first.)
+
+### Technical Approach
+- **Three or more key AI/ML concepts** you'll learn and demonstrate
+- **How you'll use AI** to help build your project
+- **What you'll create** - visualizations, demos, analysis, etc.
 
 ### Learning Goals
 - **What you hope to learn** from this project
 - **What you want others to learn** from your notebook
-- **How this connects** to your academic or career interests
+- **How this connects** to your academic or career interests or personal life
+
+## Mistakes to Avoid
+- Picking topics without thinking about how/where you will get your data
+- Being too vague ("we'll just use AI for everything")
+- Choosing overly complex projects
+- Not using professional formatting, tone, and structure
+- Not checking your grammar and spelling
 
 [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)

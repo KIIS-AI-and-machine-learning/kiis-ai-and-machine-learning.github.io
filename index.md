@@ -13,6 +13,37 @@
 
 ---
 
+## Day 10: June 19, 2025, 10:30-12:30, Room J507
+
+### Day 10 Theme: Presentations and Final Project
+
+#### Day 10 class
+
+- Field trip presentations in this order:
+  - **Austin and Elijah**: What TSMC Makes and Why It Matters to All of Us
+  - **Eun Sung and Evan**: TSMC's Business Success Story
+  - **Colin and Logan**: Taiwan's "Silicon Shield" - Technology and Geopolitics
+  - **Charlotte and Dim**: Hsinchu - Taiwan's Silicon Valley
+  - **Emmaley, Jasmine, and Kyla**: The Human and Environmental Sides
+- Each team will have 5-6 minutes to present, and then 1 minute for questions.
+- Be sure to introduce yourselves and your topic. At the end of the presentation, give a hand-off to the next group, except for the last group, which should thank the audience for their attention and invite questions (if time permits).
+  - **Prompt 1** Briefly reflect on ech of the presentations in your Fieldpad. What did you learn from each presentation? What did you like best about each presentation?
+
+- After all of the presentations, we will have a discussion about the presentations and the field trip.
+
+_ In the later part of class, we will break into the following groups:
+  - **Group 1**: Austin, Colin. Elijah, and Logan
+  - **Group 2**: Charlotte, Dim, Eun Sung, and Evan
+  - **Group 3**: Emmaley, Jasmine, and Kyla
+  - In these groups, present your final projects to one another, and give each other feedback.
+
+#### Day 10: Homework
+
+- Complete and submit your [final project](project.md) in Google Classroom by Monday, June 23, 2025 at 8 am.
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 9: June 18, 2025, 10:30-12:30, Room J505
 
 ### Day 9 Theme: Ethics and AI + Make Progress on Deliverables
