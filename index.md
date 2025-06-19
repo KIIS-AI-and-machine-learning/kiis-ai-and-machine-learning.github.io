@@ -32,7 +32,7 @@
 - After all of the presentations, we will have a discussion about the presentations and the field trip.
 
 _ In the later part of class, we will break into the following groups:
-  - **Group 1**: Austin, Colin. Elijah, and Logan
+  - **Group 1**: Austin, Colin, Elijah, and Logan
   - **Group 2**: Charlotte, Dim, Eun Sung, and Evan
   - **Group 3**: Emmaley, Jasmine, and Kyla
   - In these groups, present your final projects to one another, and give each other feedback.
