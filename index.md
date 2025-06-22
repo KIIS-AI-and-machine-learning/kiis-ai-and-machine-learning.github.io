@@ -13,7 +13,7 @@
 
 ---
 
-## Day 11: June 19, 2025, 10:30-12:30, Room ???
+## Day 11: June 19, 2025, 10:30-12:30, Room J508
 
 ### Day 11 Theme: Project Demonstrations and Future of AI
 
