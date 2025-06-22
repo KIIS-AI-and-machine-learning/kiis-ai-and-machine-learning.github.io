@@ -13,6 +13,40 @@
 
 ---
 
+## Day 11: June 19, 2025, 10:30-12:30, Room ???
+
+### Day 11 Theme: Project Demonstrations and Future of AI
+
+#### Day 11 class
+
+- Goals for today:
+  - Information demos and presentations of the final projects.
+  - Complete the team evaluation.
+  - Explore and discuss the future of AI.
+
+- We will start with the final project presentations. Each team will have around 10 minutes to present and demo, including 5 minutes for questions. This will be followed by 5 minutes to respond to the set of prompts.
+  - For each of the presentations, except your own, answer the following prompts:
+  - **Prompts**:
+  - Names of the presenters and topic of the presentation?
+  - What is the most important thing you learned from this presentation?
+  - On a scale of 1 (minimal effort) to 10 (maximum effort), how much effort do you believe the presenters put into this project? Explain.
+  - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
+  - Following your own presentation, complete the [Final Project Evaluations](https://forms.gle/CsXGKtpkeLDG8TH36).
+
+- After the presentations, we will have a discussion about the future of AI and work. Here are some of the questions we might discuss. We can choose among these for prompts.
+  - How do you think AI will impact your future career? How do you think it will impact the world in general? What skills do you think will remain uniquely human as AI becomes more capable?
+  - The U.S. House recently passed a provision in the federal budget reconciliation bill that would impose a 10-year moratorium on state AI laws, preventing states from enforcing existing AI regulations Daily MontananInside Privacy. Over 260 state legislators from all 50 states have signed a bipartisan letter opposing this federal preemption. How do you think should AI should be regulated?
+  - Deepfakes have permeated political ads and social media, and have even been implicated in a rise in teenage suicides. What ethical responsibilities do AI developers have?
+
+#### Day 11: Homework
+
+- In your Fieldpad, reflect on the course and what you learned.
+  - How much time did you spend outside of class on the course? Was this too much, too little, or just right?
+  - What did you like best about the course? What would you recommend changing if I offer the course again in the future?
+  - What are the most important things you learned in the course?  
+
+---
+
 ## Day 10: June 19, 2025, 10:30-12:30, Room J507
 
 ### Day 10 Theme: Presentations and Final Project
@@ -178,6 +212,8 @@ _ In the later part of class, we will break into the following groups:
 - I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your proposal to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
 - Finish reading Chapter 4 in Elements of AI, without answering the questions yet.
 - Complete homework entry in your Fieldpad.
+
+---
 
 ## Day 5: June 11, 2025, 10:30-12:30, Room H505 on the main campus
  
