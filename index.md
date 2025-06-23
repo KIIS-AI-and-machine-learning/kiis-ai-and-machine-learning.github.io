@@ -24,14 +24,13 @@
   - Complete the team evaluation.
   - Explore and discuss the future of AI.
 
-- We will start with the final project presentations. Each team will have around 10 minutes to present and demo, including 5 minutes for questions. This will be followed by 5 minutes to respond to the set of prompts.
-  - For each of the presentations, except your own, answer the following prompts:
+- We will start with the final project presentations. Each team will have around 10 minutes to present and demo, including 5 minutes for questions. This will be followed by 5 minutes to respond to the set of prompts. For each of the presentations, except your own, answer the following prompts:
   - **Prompts**:
   - Names of the presenters and topic of the presentation?
   - What is the most important thing you learned from this presentation?
   - On a scale of 1 (minimal effort) to 10 (maximum effort), how much effort do you believe the presenters put into this project? Explain.
   - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
-  - Following your own presentation, complete the [Final Project Evaluations](https://forms.gle/CsXGKtpkeLDG8TH36).
+  - Following your OWN presentation, complete the [Final Project Evaluations](https://forms.gle/CsXGKtpkeLDG8TH36).
 
 - After the presentations, we will have a discussion about the future of AI and work. Here are some of the questions we might discuss. We can choose among these for prompts.
   - How do you think AI will impact your future career? How do you think it will impact the world in general? What skills do you think will remain uniquely human as AI becomes more capable?
