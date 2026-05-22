@@ -26,8 +26,6 @@
   - What is Deep Learning?
   - What Generative AI tools are useful for various tasks?
 
-#### Day 1: Field Work
-
 - Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935)
   - **Prompt 1**: What is the key takeaway from this article? How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
 
