@@ -32,6 +32,7 @@
 - Read [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. **Please remember not to work ahead in this text. We will continue in the text next time.**
   - Regardless of how far you got in your reading, answer:
   - **Prompt 2**: What is your own definition of AI? Explain.
+- If time permits, read some of [Elements of AI: 1.2 Related Fields](https://course.elementsofai.com/1/2).
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad in your own words. Do not use AI. What did you learn? Explain.
 
