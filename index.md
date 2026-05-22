@@ -32,7 +32,8 @@
   - **Prompt 1**: What is the key takeaway from this article? How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
 
 - Read as far as you can in [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. **Please remember not to work ahead in this text. We will continue in the text next time.**
-  - Regardless of how far you got in your reading, answer **Prompt 2**: What is your own definition of AI? Explain.
+  - Regardless of how far you got in your reading, answer:
+  - **Prompt 2**: What is your own definition of AI? Explain.
 
 - **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad in your own words. Do not use AI. What did you learn? Explain.
 
@@ -46,6 +47,8 @@
 
 **Homework Reflections:**
 (Note that unless otherwise stated, all homework is due at 8 am on the day of the next class session.) Use the AI and Machine Learning Field Pad to record your in-class reflections.
+
+---
 
 ### In addition to the normal stuff, be sure to pack all of the following in your carry-on bag (not your checked luggage.)
 
