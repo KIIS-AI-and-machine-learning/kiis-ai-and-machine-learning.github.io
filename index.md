@@ -29,7 +29,7 @@
 - Read [AI Assistance Reduces Persistence and Hurts Independent Performance](https://ai-project-website.github.io/AI-assistance-reduces-persistence/?utm_brand=wired&utm_mailing=WIR_PremiumAILab_050626_UNPAID&cndid=85484935)
   - **Prompt 1**: What is the key takeaway from this article? How have you used generative AI in the past in your learning process? Do you think you have used in ways that enhance rather than hinder your learning? Explain.
 
-- Read as far as you can in [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. **Please remember not to work ahead in this text. We will continue in the text next time.**
+- Read [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and discuss the questions in your group before having them graded. **Please remember not to work ahead in this text. We will continue in the text next time.**
   - Regardless of how far you got in your reading, answer:
   - **Prompt 2**: What is your own definition of AI? Explain.
 
@@ -37,7 +37,7 @@
 
 #### Day 1 Homework
 
-1. Finish the reading of  [Elements of AI: 1.1 How should we define AI?](https://course.elementsofai.com/1/1) and read [Elements of AI: 1.2 Related Fields](https://course.elementsofai.com/1/2). Feel free to read and think about the questions, but do not answer the questions. We will complete them next time.
+1. Finish the reading of [Elements of AI: 1.2 Related Fields](https://course.elementsofai.com/1/2). Feel free to read and think about the questions, but do not answer the questions. We will complete them next time.
 1. Go to [Introduction to Generative AI and Large Language Models](https://github.com/microsoft/generative-ai-for-beginners/tree/main/01-introduction-to-genai) and either watch the video or read the lesson.
 1. Read [How to Use AI Without Forgetting Everything You Learned](https://www.psychologytoday.com/us/blog/how-we-remember/202506/how-to-use-ai-without-forgetting-everything-you-learned). Note that over this course's duration, I will be challenging you to learn to use generative AI in new ways and to analyze your own learning using metacognition.
 1. After watching these videos and doing the reading, use your favorite generative AI tool to further explore at least one idea further. Discuss what you chose and why and be sure to link and reference your chat as described in the syllabus in your Fieldpad.
