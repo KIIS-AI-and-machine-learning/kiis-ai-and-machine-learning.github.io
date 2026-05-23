@@ -12,7 +12,7 @@
 
 #### Day 2 class
 
-- I am hoping to give you feedback on your Fieldpad by Monday.
+- I am hoping to give you feedback on your Fieldpad over the weekend.
 - Discuss homework from Day 1:
   - How much time did you spend on the homework?
   - How did you define AI?
