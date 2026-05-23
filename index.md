@@ -6,6 +6,48 @@
 
 ---
 
+## Day 2: May 23, 2026, 10:30-11:45
+
+### Day 2 Theme: AI terms and Related Fields
+
+#### Day 2 class
+
+- I am hoping to give you feedback on your Fieldpad by Monday.
+- Discuss homework from Day 1:
+  - How much time did you spend on the homework?
+  - How did you define AI?
+  - What did you learn from the homework?
+  - From Recolletta Outing: How do you see AI and digital
+systems increasingly shaping urban life? You were asked to consider how recommendation systems, translation
+technologies, and digital archives influence how people experience art and information.
+
+- If you do not already have one, make an account on [Runestone Academy](https://runestone.academy/) and add the book **kiis_AI_2026**. We will use this for Peer Instruction.
+  - Go to [PI from Day 1](https://runestone.academy/runestone/peer/peer_question?assignment_id=222668).
+
+- Watch [Machine Learning & Artificial Intelligence: Crash Course Computer Science #34](https://youtu.be/z-EtmaFJieY?feature=shared).
+  - **Prompt 1**: While watching the video, take notes on the AI and ML terms that are introduced, so you can look them up afterwards. Which terms did you note?
+
+- Watch [The Turing test: Can a computer pass for a human? ](https://youtu.be/3wLqsRLvV-c?feature=shared)
+  - **Prompt 2**: What are your thoughts on the Turing test? Do you think it is a good measure of AI? Why or why not? Explain.
+
+- Working with your partner(s), return to the Elements of AI textbook and discuss the questions in [Elements of AI: 1.2 Related Fields](https://course.elementsofai.com/1/2), When you reach consensus, go ahead and have the questions graded.
+
+- After finishing section, work through the rest of chapter 1, stopping each time you reach a question. Discuss the questions in your group, and when you reach consensus, have the questions graded. Then if time permitsmove on to section 2.1, read the whole section, and do the second part. (The first part is harder without paper - we will do it together next time.)
+  - **Prompt 3**: This technique of working in groups to answer questions is designed to get you to discuss the material with your peers, which is a great way to learn for many. How did it help you understand the material? Explain.
+
+- **Post-class reflection:** *Remember that the Post-class reflection should be a summary reflection on the course material learned that day. It should be formally written with yourself, your classmates and your professor as the audience.* Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 2 Homework
+
+1. Read [I tried 70+ best AI tools in 2026](https://www.techradar.com/best/best-ai-tools), and then choose 2 or 3 of these AI tools that you have never used before and give them a try. Note that this was originally written for 2025, but it is well-organized and the tools are still relevant. Write a short description of each of these three tools, why you chose it, and how well it did what you asked it to do, and whether you might use it again in the future. Save and link to each chat if the tool allows it.
+1. Watch [Introduction to Large Language Models: Video](https://www.cloudskillsboost.google/paths/118/course_templates/539/video/518194)
+1. Explore 1-2  additional reading from [Introduction to Large Language Models: Readings](https://www.cloudskillsboost.google/paths/118/course_templates/539/documents/518195)
+1. Take [Introduction to Large Language Models: Quiz](https://www.cloudskillsboost.google/paths/118/course_templates/539/quizzes/518196), getting at least 80% correct.
+1. If you did not finish the reading of [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1), finish the reading for homework, but do not answer the questions alone. We will work on it in class.
+1. Discuss what you learned from this homework in your own words in your Fieldpad.
+
+---
+
 ## Day 1: May 22, 2026, 10:30-11:45
 
 ### Day 1 Theme: Class Overview - What is AI?
