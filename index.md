@@ -40,7 +40,7 @@
 
 - Please keep me posted on your progress in the Elements of AI textbook. I will be checking in with you to see how you are doing.
 
-- **Post-class reflection:** How far did you get in the textbook? What did you learn today? Explain.
+- **Post-class reflection:** Remember to complete your post-class reflection promptly. How far did you get in the textbook? What did you learn today? Explain.
 
 #### Day 3: Homework
 
