@@ -44,7 +44,7 @@
 
 #### Day 3: Homework
 
-1. Read [Elements of AI: 2.3 Search and Games](https://course.elementsofai.com/2/3)Read [Odds and Probability](https://course.elementsofai.com/3/1) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
+1. Read [Elements of AI: 2.3 Search and Games](https://course.elementsofai.com/2/3) and [Odds and Probability](https://course.elementsofai.com/3/1) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
 
 1. Play several rounds of [Quick Draw with Google](https://quickdraw.withgoogle.com/). Discuss your experience in your Fieldpad. What happened in each round? How did the AI do? What did you learn from this experience? What do you think the tool learned?
 
