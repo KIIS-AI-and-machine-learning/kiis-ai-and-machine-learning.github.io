@@ -22,7 +22,15 @@
 
 - My primary goal for today is to help you to better understand the basics of search and problem solving in AI, and I wanted to make it easier for you to solve the first problem in [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1). So we will discuss it and then I will show you a tool that I used an AI to build... It took a LONG time because my prompt engineering wasn't great in retrospect and the AI kept making mistakes.
 
-- Note that the Robot can only carry 1 item per trip, the Fox can't be alone with the Chicken, and the Chicken can't be alone with the Feed. Also note that N stands for Near and F stands for Far for each postion, while the items are positional with Robot=1 Fox=2 Chicken=3 Chicken-feed=4.
+- Note that:
+  - the Robot can only carry 1 item per trip, 
+  - the Fox can't be alone with the Chicken, and
+  - the Chicken can't be alone with the Feed. 
+- Also note that for each postion:
+  - N stands for Near, and 
+  - F stands for Far , 
+- while the items are positional with: 
+  - Robot=1 Fox=2 Chicken=3 Chicken-feed=4.
   - **Prompt 1**: What is the initial state of the problem? What is the goal state? Explain.
 
   - **Prompt 2**:  Identify some states in the state space that are not valid states. What are they? Explain.
