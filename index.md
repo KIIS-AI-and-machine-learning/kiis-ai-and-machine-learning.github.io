@@ -86,9 +86,9 @@ technologies, and digital archives influence how people experience art and infor
 #### Day 2 Homework
 
 1. Read [I tried 70+ best AI tools in 2026](https://www.techradar.com/best/best-ai-tools), and then choose 2 or 3 of these AI tools that you have never used before and give them a try. Note that this was originally written for 2025, but it is well-organized and the tools are still relevant. Write a short description of each of these three tools, why you chose it, and how well it did what you asked it to do, and whether you might use it again in the future. Save and link to each chat if the tool allows it.
-1. Watch [Introduction to Large Language Models: Video](https://www.cloudskillsboost.google/paths/118/course_templates/539/video/518194)
-1. Explore 1-2  additional reading from [Introduction to Large Language Models: Readings](https://www.cloudskillsboost.google/paths/118/course_templates/539/documents/518195)
-1. Take [Introduction to Large Language Models: Quiz](https://www.cloudskillsboost.google/paths/118/course_templates/539/quizzes/518196), getting at least 80% correct.
+1. Watch [Introduction to Large Language Models: Video](https://www.skills.google/course_templates/539?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=86415812)
+1. Explore 1-2  additional reading from [Introduction to Large Language Models: Readings](https://www.skills.google/course_templates/539?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=86415812)
+1. Take [Introduction to Large Language Models: Quiz](https://www.skills.google/course_templates/539?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=86415812), getting at least 80% correct.
 1. If you did not fully complete [Elements of AI: 1.3 Philosphy of AI](https://course.elementsofai.com/1/3), please do so individually, including answering the questions.
 1. If you did not finish the reading of [Elements of AI: 2.1 Search and problem solving](https://course.elementsofai.com/2/1), finish the reading for homework, but do not answer the questions alone. We will work on them in class.
 1. Discuss what you learned from this homework in your own words in your Fieldpad.
