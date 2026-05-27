@@ -16,7 +16,7 @@
   - How much time did you spend on the homework?
   - What did you think of the two AI tools I give you to try? What did you learn from using these tools?
 
-- My goal for today is to complete the questions from the Elements of AI textbook and to help you understand the math behind AI, which is important for understanding how AI works and for being able to use it effectively. We will start with probability and odds, which are fundamental concepts in AI. Then we will move on to Bayes Rule, which is a powerful tool for reasoning about uncertainty.
+- My goal for today is to complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1) questions and to help you understand the math behind AI, which is important for understanding how AI works and for being able to use it effectively. We will start with probability and odds, which are fundamental concepts in AI. Then we will move on to Bayes Rule, which is a powerful tool for reasoning about uncertainty.
 
 - Probability is a key part of AI and it is not super-hard to understand. Probability is the chance of an event happening, expressed as a fraction, decimal, or percentage. For a fair six-sided die the **probability** of rolling any particular number like 3 is 1/6 ≈ 0.167 or 16.7%. **Odds** compare the number of ways something can happen versus the number of ways it can't happen. They're expressed as a ratio.
 For rolling a 3, since there is 1 way to roll a 3 and 5 ways to not roll a 3
@@ -33,15 +33,12 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 #### Day 4: Homework
 
 1. Read [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2) and [Elements of AI: 3.3 Deep Learning](https://course.elementsofai.com/3/3) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
-1. Both Argentina and the US are currently liberal democracies that arhave recently moving towards more authoritarianism as well as more integration of AI. This may just be a cooincidence. Note that **Liberal democracy** is a form of government that combines democratic principles with the protection of individual rights and freedoms, characterized by free elections, the rule of law, freedom of the press, and universal right for citizensto vote (aka suffrage). 
-
-Skim the following three articles about AI in Argentina in order to be qable to discuss them in your Fieldpad:
+1. Skim the following three articles about AI in Argentina in order to be qable to discuss them in your Fieldpad:
   - **AI-related economic gain**: [Stargate Argentina: OpenAI's Bold $25 Billion Bet on Latin American AI Expansion](https://opentools.ai/news/stargate-argentina-openais-bold-dollar25-billion-bet-on-latin-american-ai-expansion)
   - **AI data center regulation**: [AI Mega Data Centers: How They Are Regulated in Latin America and Europe, and What Might Happen in Argentina](https://pulitzercenter.org/stories/ai-mega-data-centers-how-they-are-regulated-latin-america-and-europe-and-what-might-happen)
   - **AI and the workforce**: [Argentina wants to be an AI powerhouse, but its tech experts are leaving](https://restofworld.org/2025/javier-milei-ai-hub-argentina-talent/)
-Given these, what do you think about the future of AI in Argentina? On baalnace, do you think it will be a postive inititive for the country? Explain. (There is no correct answer, so please share your honest reasoning and feelings about this without use of AI.)
-1. The above articles identified potitive and negative issues related to the economic impact of AI, the regulation of AI data centers, and the potential for a brain drain of technical talent from Argentina. Search on similar issues in the US and compare and contrast the situation in the US with that in Argentina. Discuss your findings in your Fieldpad citing your sources, using at least three reputable sources. You will be reporting on this in class.
-1. AI is what is known as a disruptive technology. A **disruptive technology** is an innovation that significantly alter the way consumers, industries, businesses, and/or governments operate, by displacing established ones. Write a paragraph about your thoughts on the relationship between democracy and AI. Do you think that the rise of AI will ultimately lead to more authoritarianism or stronger democracies in our world? Explain. I would like to hear your real thoughts, so please do not use AI to help you to think about or write this.
+  - Given these, what do you think about the future of AI in Argentina? On balance, do you think it will be a positive initiative for the country? Explain. (There is no correct answer, so please share your honest reasoning and feelings about this without use of AI.)
+1. The above articles identified positive and negative issues related to the economic impact of AI, the regulation of AI data centers, and the potential for a brain drain of technical talent from Argentina. Search on similar issues in the US and compare and contrast the situation in the US with that in Argentina. Discuss your findings in your Fieldpad citing your sources, using at least three reputable sources. You will be reporting on this in class.
 
 ---
 
