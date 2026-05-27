@@ -29,13 +29,13 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 - A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Bayesian Reasoning: Librarians and Farmers](https://srulix.com/projects/bayesground?standalone=true) and [Conditional probability](https://setosa.io/conditional/).
   - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life. Did any of these help you understand Bayes Rule better? Explain.
 
-- If time permits, read Read [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2)
+- If time permits, read Read [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2), and if you both finish, answer questions with your partner.
 
 - Don't forget to **promptly** complete the post-class reflection in your Fieldpad. Reflect on the day’s activities and discussions. What did you learn? Explain.
 
 #### Day 4: Homework
 
-1. Read [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2) and [Elements of AI: 3.3 Deep Learning](https://course.elementsofai.com/3/3) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
+1. Finish reading [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2) and read [Elements of AI: 3.3 Deep Learning](https://course.elementsofai.com/3/3) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
 1. Skim the following three articles about AI in Argentina in order to be qable to discuss them in your Fieldpad:
   - **AI-related economic gain**: [Stargate Argentina: OpenAI's Bold $25 Billion Bet on Latin American AI Expansion](https://opentools.ai/news/stargate-argentina-openais-bold-dollar25-billion-bet-on-latin-american-ai-expansion)
   - **AI data center regulation**: [AI Mega Data Centers: How They Are Regulated in Latin America and Europe, and What Might Happen in Argentina](https://pulitzercenter.org/stories/ai-mega-data-centers-how-they-are-regulated-latin-america-and-europe-and-what-might-happen)
