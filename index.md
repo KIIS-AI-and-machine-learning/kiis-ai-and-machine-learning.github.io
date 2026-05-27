@@ -36,7 +36,7 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 #### Day 4: Homework
 
 1. Finish reading [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2) and read [Elements of AI: 3.3 Deep Learning](https://course.elementsofai.com/3/3) without answering any questions. We will work on these together in class next time. Discuss what you learned from these readings as well as any questions in your Fieldpad.
-1. Skim the following three articles about AI in Argentina in order to be qable to discuss them in your Fieldpad:
+1. Skim the following three articles about AI in Argentina in order to be able to discuss them in your Fieldpad:
   - **AI-related economic gain**: [Stargate Argentina: OpenAI's Bold $25 Billion Bet on Latin American AI Expansion](https://opentools.ai/news/stargate-argentina-openais-bold-dollar25-billion-bet-on-latin-american-ai-expansion)
   - **AI data center regulation**: [AI Mega Data Centers: How They Are Regulated in Latin America and Europe, and What Might Happen in Argentina](https://pulitzercenter.org/stories/ai-mega-data-centers-how-they-are-regulated-latin-america-and-europe-and-what-might-happen)
   - **AI and the workforce**: [Argentina wants to be an AI powerhouse, but its tech experts are leaving](https://restofworld.org/2025/javier-milei-ai-hub-argentina-talent/)
