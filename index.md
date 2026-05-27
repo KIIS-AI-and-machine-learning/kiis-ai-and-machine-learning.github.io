@@ -16,8 +16,6 @@
   - How much time did you spend on the homework?
   - What did you think of the two AI tools I give you to try? What did you learn from using these tools?
 
-  - [Peer Instruction PI3](https://runestone.academy/runestone/peer/student.html)
-
 - My primary goals for today are to complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1) questions and to help you understand the math behind AI, which is important for understanding how AI works and for being able to use it effectively. 
 
 - Complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1)
