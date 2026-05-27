@@ -16,14 +16,18 @@
   - How much time did you spend on the homework?
   - What did you think of the two AI tools I give you to try? What did you learn from using these tools?
 
-- My goal for today is to complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1) questions and to help you understand the math behind AI, which is important for understanding how AI works and for being able to use it effectively. We will start with probability and odds, which are fundamental concepts in AI. Then we will move on to Bayes Rule, which is a powerful tool for reasoning about uncertainty.
+  - [Peer Instruction PI3](https://runestone.academy/runestone/peer/student.html)
+
+- My primary goals for today are to complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1) questions and to help you understand the math behind AI, which is important for understanding how AI works and for being able to use it effectively. 
+
+- Complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1)
 
 - Probability is a key part of AI and it is not super-hard to understand. Probability is the chance of an event happening, expressed as a fraction, decimal, or percentage. For a fair six-sided die the **probability** of rolling any particular number like 3 is 1/6 ≈ 0.167 or 16.7%. **Odds** compare the number of ways something can happen versus the number of ways it can't happen. They're expressed as a ratio.
 For rolling a 3, since there is 1 way to roll a 3 and 5 ways to not roll a 3
 the Odds of rolling a 3 are 1:5. **Remember the following key points: Probability can be quantified and it can be right or wrong, but it is usually not possible to draw conclusions about whether a particular number like a weather forecast  probability was right or wrong based on a single observation, unless that probability is 0 or 1.**
   - **Prompt 1**: Explain why it is usually not possible to draw conclusions about whether a particular probability was right or wrong based on a single observation, unless that probability is 0 or 1.
 
-- Bayes Rule is a bit complicated because it is based on conditional probability, and while you can just apply the formula, it is better to understand it. Let's watch [What Is Bayes Theorem In AI? - The Friendly Statistician](https://youtu.be/JOVrcj4a1qc?feature=shared).
+-  **Bayes Rule** is a powerful tool for reasoning about uncertainty. Bayes Rule is a bit complicated because it is based on conditional probability, and while you can just apply the formula, it is better to understand it. Let's watch [What Is Bayes Theorem In AI? - The Friendly Statistician](https://youtu.be/JOVrcj4a1qc?feature=shared).
 - Watch [Seeing Bayes Theorem](https://youtu.be/jRHw_LfQFAY?feature=shared).
 - A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Conditional probability](https://setosa.io/conditional/).
   - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life. Did any of these help you understand Bayes Rule better? Explain.
