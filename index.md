@@ -25,9 +25,8 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 
 - Complete the [Elements of AI: 3.1 Odds and Probability](https://course.elementsofai.com/3/1)
 
--  **Bayes Rule** is a powerful tool for reasoning about uncertainty. Bayes Rule is a bit complicated because it is based on conditional probability, and while you can just apply the formula, it is better to understand it. Let's watch [What Is Bayes Theorem In AI? - The Friendly Statistician](https://youtu.be/JOVrcj4a1qc?feature=shared).
-- Watch [Seeing Bayes Theorem](https://youtu.be/jRHw_LfQFAY?feature=shared).
-- A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Conditional probability](https://setosa.io/conditional/).
+-  **Bayes Rule** is a powerful tool for reasoning about uncertainty. Bayes Rule is a bit complicated because it is based on conditional probability, and while you can just apply the formula, it is better to understand it. Let's watch [Bayes theorem, the geometry of changing beliefs](https://youtu.be/HZGCoVF3YvM?si=CTTRbYpF3gG2vnU4).
+- A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Bayesian Reasoning: Librarians and Farmers](https://srulix.com/projects/bayesground?standalone=true) and [Conditional probability](https://setosa.io/conditional/).
   - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life. Did any of these help you understand Bayes Rule better? Explain.
 
 - Don't forget to **promptly** complete the post-class reflection in your Fieldpad. Reflect on the day’s activities and discussions. What did you learn? Explain.
