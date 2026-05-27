@@ -29,6 +29,8 @@ the Odds of rolling a 3 are 1:5. **Remember the following key points: Probabilit
 - A **conditional probability** is the probability of an event, given some other event has already occurred. Explore [Bayesian Reasoning: Librarians and Farmers](https://srulix.com/projects/bayesground?standalone=true) and [Conditional probability](https://setosa.io/conditional/).
   - **Prompt 2**: Explain conditional probability in your own words. How is it different from regular probability? Give an example of a conditional probability in your own life. Did any of these help you understand Bayes Rule better? Explain.
 
+- If time permits, read Read [Elements of AI: 3.2 Machine Learning](https://course.elementsofai.com/3/2)
+
 - Don't forget to **promptly** complete the post-class reflection in your Fieldpad. Reflect on the day’s activities and discussions. What did you learn? Explain.
 
 #### Day 4: Homework
