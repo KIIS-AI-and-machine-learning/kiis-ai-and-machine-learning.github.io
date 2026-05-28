@@ -6,6 +6,39 @@
 
 ---
 
+## Day 5: May 28, 2026, 10:30-11:45
+
+### Day 5 Theme: Google Colab Notebooks 
+
+#### Day 5 class
+
+- Goals for today:
+  - Learn how to use Google Colab notebooks.
+  - Practice using Gemini to explain code in the notebook.
+  - Explore the Elements of AI notebook in Colab while completing chapter 3, if you have not already done so.
+  - Discuss final project.
+
+- Watch [Colab Environment + Basics](https://youtu.be/H8mhcIRsnh8?feature=shared). If you like this, she has a whole series on Colab.
+- [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
+
+- Let's explore a notebook [Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1k91td8BVfnMPQ0FyO1RiJe_suX_fRXH8?usp=sharing)
+  - Try using Gemini to explain something in the notebook. For example, try asking it to explain a particular bit of code. To modify, this notebook, you will need to make a copy. Try that and then make changes to the notebook.
+    - **Prompt 1**: How easy did you find Google Colab to use and modify? How helpful was Gemini?
+
+- Discuss [Final Project](project.md)
+  - when you have finished the above explorations, you can begin work on your project propsosal.
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 5: Homework
+
+- Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
+- I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your proposal to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
+- Read all of Chapter 4 in Elements of AI, without answering the questions yet.
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 4: May 27, 2026, 10:30-11:45
 
 ### Day 4 Theme: The Math Behind AI

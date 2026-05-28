@@ -1,8 +1,8 @@
-# AI/ML Final Project, Due Monday, June 23, 10:30 AM
+# AI/ML Final Project
 
 ## Project Overview
 
-Working in teams of 2-3 students, you will create an educational Google Colab notebook that explores an AI or machine learning topic in depth. Your notebook should both **explain the concept clearly** and **demonstrate it with working code**.
+You will create an educational Google Colab notebook that explores an AI or machine learning topic in depth. Your notebook should both **explain the concept clearly** and **demonstrate it with working code**.
 
 ## Learning Objectives
 
@@ -15,8 +15,8 @@ By completing this project, you will:
 ## Project
 
 ### 1. Topic Selection
-Choose an AI or ML topic that interests your team. You may:
-- **Expand on a topic from Building AI textbook** o
+Choose an AI or ML topic that interests you. You may:
+- **Expand on a topic from Building AI textbook** or
 - **Explore a new AI application** not covered in our course 
 
 ### 2. Deliverable Format
@@ -34,7 +34,7 @@ Your notebook should:
 - Be professionally written with **proper formatting**, **grammar**, and **spelling**
 - Be sure to include **visualizations** (graphs, charts, etc.) to illustrate key points
 
-### 4. Demonstration of your project on Monday, June 23, our last day of class.
+### 4. Demonstration of your project on our last day of class.
 - an informal demonstration of your notework
 - sharing of the link so the class can try it out
 - question and answers
@@ -64,17 +64,15 @@ Your notebook should:
 
 ---
 
-## Project Proposal, Due Monday, June 16, 2025 8 am in Google Classroom
+## Project Proposal due in Google Classroom
 
 Submit a link to a **300-400 word proposal** in Google Colab that includes:
 
-### Team Information
-- **Team members names**
-- **A team name**
+### Author: Your name
 
 ### Project Description
 - **Topic chosen** and a brief explanation of the topic itself and what you want to build or analyze in that topical area
-- **Why this topic interests your team** (personal connection, career relevance, curiosity, etc.)
+- **Why this topic interests you** (personal connection, career relevance, curiosity, etc.)
 - **What specific aspect** you plan to focus on
 - **Key concepts** you plan to explain and demonstrate
 - **Data source** - what datasets you'll use (check [Kaggle](https://www.kaggle.com/) first.)
