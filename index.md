@@ -21,7 +21,7 @@
 - Watch [Colab Environment + Basics](https://youtu.be/H8mhcIRsnh8?feature=shared). If you like this, she has a whole series on Colab.
 - [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
 
-  - [Peer Instruction PI3](https://runestone.academy/runestone/peer/student.html)
+- [Peer Instruction PI3](https://runestone.academy/runestone/peer/student.html)
 
 - Let's explore a notebook [Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1k91td8BVfnMPQ0FyO1RiJe_suX_fRXH8?usp=sharing)
   - Try using Gemini to explain something in the notebook. For example, try asking it to explain a particular bit of code. To modify, this notebook, you will need to make a copy. Try that and then make changes to the notebook.
