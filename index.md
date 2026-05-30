@@ -6,6 +6,45 @@
 
 ---
 
+## Day 6: June 1, 2026, 10:30-11:45
+
+### Day 6 Theme: Machine Learning
+
+#### Day 6 class
+
+- Discuss [Final Project](project.md)
+- Discuss chapter 4 of the Elements of AI textbook reading.
+
+ Goals for today:
+  - Learn some of the math behind Elements of AI chapter 4 more deeply.
+  - Complete the Elements of AI chapter 4 on Machine Learning.
+  - Try out a machine learning tool called teachable machine.
+
+- Complete [P13-Machine-Learning](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
+- Watch [Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA?feature=shared) noting down the key points.
+- Watch [StatQuest: Logistic Regression](https://youtu.be/yIYKR4sgzI8?feature=shared), noting down the key points.
+  - **Prompt 1**: What is bias in machine learning? What is variance? How do they relate to each other? Explain.
+  - **Prompt 2**: What is logistic regression? How does it differ from linear regression? How is it used in machine learning? Explain.
+- Watch [Project Euphonia: Helping everyone be better understood](https://youtu.be/OAdegPmkK-o?feature=shared)
+  - **Prompt 3**: In a full paragraph discuss your thoughts on the potential of Project Euphonia.
+
+- Go to [Teachable Machine](https://teachablemachine.withgoogle.com/) and train it to distinguish between two different things. For example, your face and your partner's face or your cell phone and your partner's cell phone. 
+  - **Prompt 4**: How well did the teachable work? Is it using supervised or unsupervised learning. Explain. Could you overfit the data? Explain.
+
+- Work through as much as you can of chapter 4 in the Elements of AI textbook.
+- If you complete chapter 4, you can work on your [final project](project.md).
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 6: Homework
+
+- Read Chapter 5 in Elements of AI, without answering the questions yet. We will work on this together in class next time.
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+
+---
+
 ## Day 5: May 28, 2026, 10:30-11:45
 
 ### Day 5 Theme: Google Colab Notebooks 
@@ -20,8 +59,6 @@
 
 - Watch [Colab Environment + Basics](https://youtu.be/H8mhcIRsnh8?feature=shared). If you like this, she has a whole series on Colab.
 - [Supercharge your Programming in Colab with AI-Powered tools](https://www.youtube.com/watch?v=V7RXyqFUR98)
-
-- [Peer Instruction PI3](https://runestone.academy/runestone/peer/student.html)
 
 - Let's explore a notebook [Elements of AI - Chapter 3 Extended into Google Colab](https://colab.research.google.com/drive/1k91td8BVfnMPQ0FyO1RiJe_suX_fRXH8?usp=sharing)
   - Try using Gemini to explain something in the notebook. For example, try asking it to explain a particular bit of code. To modify, this notebook, you will need to make a copy. Try that and then make changes to the notebook.
