@@ -6,7 +6,7 @@
 
 ---
 
-## Day 6: June 1, 2026, 10:30-11:45
+## Day 6: June 1, 2026, 10:15-11:15 (short day)
 
 ### Day 6 Theme: Machine Learning
 
