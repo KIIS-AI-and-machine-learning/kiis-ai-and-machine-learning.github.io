@@ -6,6 +6,41 @@
 
 ---
 
+## Day 7: June 3, 2026, 10:15-11:15 (short day)
+
+### Day 7 Theme: Neural Networks
+
+#### Day 7 class
+
+- Because of the short day, we are going to spread the nueral network material over two class days. That will allow you to focus on your project proposal for homework.
+- Discuss homework from Day 7.
+- Go to Elements of AI and answer the chapter 4 questions with your partner. 
+
+- Watch [But what is a neural network? | Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+  - **Prompt 1**: What are the key takeaways from this video in terms of how layers in neural networks work to accomplish the goal? Explain.
+
+- Complete [Peer Instruction Questions: PI4-Neural-Networks](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
+
+- I found a visualization tool for neural networks that I think you might find useful. 
+- First, let's watch [TensorFlow Playground Explained | Guide Glimpse](https://www.youtube.com/watch?v=kIuKhwz9sP4) to get a better understanding of how the tool works.
+- Try [TensorFlow Playground](https://playground.tensorflow.org/), which visualizes how neural networks work. Talk to you partner(s) about what is happening before you answer the prompt. Talk to you partner(s) about what is happening before you answer the prompt.
+  - **Prompt 2**:  Describe how the changes you made affected the outputs.
+
+- Go to Elements of AI and answer the chapter 5 questions with your partner. 
+ - **Prompt 3**: How did this go and what did you learn? Explain.
+
+- If you finish the above, you can work on your [final project](project.md).
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 7: Homework
+
+- Complete your [project proposal](project.md) and submit it to Google Classroom by 8 am. 
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 6: June 1, 2026, 10:15-11:15 (short day)
 
 ### Day 6 Theme: Machine Learning
