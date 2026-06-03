@@ -36,7 +36,7 @@ Your notebook should:
 - Be professionally written with **proper formatting**, **grammar**, and **spelling**
 - Be sure to include **visualizations** (graphs, charts, etc.) to illustrate key points
 
-### 4. Demonstration of your project on our last day of class.
+### 4. Demonstration of your project on our last couple of days of class.
 - an informal demonstration of your notework
 - sharing of the link so the class can try it out
 - question and answers
@@ -44,6 +44,8 @@ Your notebook should:
 ### 5. References
 - Be sure to include references to all sources and tools you use, collecting these as you work on your project. This should include tutorials, documentation, datasets, etc.
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) may be a helpful resource for formatting your notebook.
+
+---
 
 ## Suggested Topics
 
