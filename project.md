@@ -41,6 +41,7 @@ Your notebook should:
 
 ### 5. References
 - Be sure to include references to all sources and tools you use, collecting these as you work on your project. This should include tutorials, documentation, datasets, etc.
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) may be a helpful resource for formatting your notebook.
 
 ## Suggested Topics
 
