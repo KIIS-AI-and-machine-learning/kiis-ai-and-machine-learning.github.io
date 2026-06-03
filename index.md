@@ -16,18 +16,18 @@
 - Discuss homework from Day 7.
 - Go to Elements of AI and answer the chapter 4 questions with your partner. 
 
-- Watch [But what is a neural network? | Deep learning chapter 1](https://www.youtube.com/watch?v=aircAruvnKk)
+- Watch [But what is a neural network? - Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=5hX0fdwF9Vkuhj4I)
   - **Prompt 1**: What are the key takeaways from this video in terms of how layers in neural networks work to accomplish the goal? Explain.
 
 - Complete [Peer Instruction Questions: PI4-Neural-Networks](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
 
 - I found a visualization tool for neural networks that I think you might find useful. 
-- First, let's watch [TensorFlow Playground Explained | Guide Glimpse](https://www.youtube.com/watch?v=kIuKhwz9sP4) to get a better understanding of how the tool works.
+- First, let's watch [TensorFlow Playground Explained - Guide Glimpse](https://youtu.be/kIuKhwz9sP4?si=RiyzpjBF0eUN87IZ) to get a better understanding of how the tool works.
 - Try [TensorFlow Playground](https://playground.tensorflow.org/), which visualizes how neural networks work. Talk to you partner(s) about what is happening before you answer the prompt. Talk to you partner(s) about what is happening before you answer the prompt.
   - **Prompt 2**:  Describe how the changes you made affected the outputs.
 
 - Go to Elements of AI and answer the chapter 5 questions with your partner. 
- - **Prompt 3**: How did this go and what did you learn? Explain.
+  - **Prompt 3**: How did this go and what did you learn? Explain.
 
 - If you finish the above, you can work on your [final project](project.md).
 
