@@ -26,8 +26,7 @@
 - Try [TensorFlow Playground](https://playground.tensorflow.org/), which visualizes how neural networks work. Talk to you partner(s) about what is happening before you answer the prompt. Talk to you partner(s) about what is happening before you answer the prompt.
   - **Prompt 2**:  Describe how the changes you made affected the outputs.
 
-- Go to Elements of AI and answer the chapter 5 questions with your partner. 
-  - **Prompt 3**: How did this go and what did you learn? Explain.
+- If time permits, go to Elements of AI and answer the chapter 5 questions with your partner. 
 
 - If you finish the above, you can work on your [final project](project.md).
 
