@@ -1,6 +1,6 @@
 # AI/ML Final Project Proposal
 
-Submit a link to a **300-400 word proposal** written in Google Colab that includes:
+Submit a link to a **300-400 word proposal** for your [Final Project](project.md) written in Google Colab that includes the following sections:
 
 ### Author: Your name
 
@@ -22,6 +22,7 @@ Submit a link to a **300-400 word proposal** written in Google Colab that includ
 - **How this connects** to your academic or career interests or personal life
 
 ## Mistakes to Avoid
+- Failing to follow requirements in [Final Project](project.md)
 - Picking topics without thinking about how/where you will get your data
 - Being too vague ("we'll just use AI for everything")
 - Choosing overly complex projects
