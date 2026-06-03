@@ -12,7 +12,7 @@
 
 #### Day 7 class
 
-- Because of the short day, we are going to spread the nueral network material over two class days. That will allow you to focus on your project proposal for homework.
+- Because of the short day, we are going to spread the neural network material over two class days. That will allow you to focus on your [Final Project Proposal](final-project-proposal.md) for homework.
 - Discuss homework from Day 7.
 - Go to Elements of AI and answer the chapter 4 questions with your partner. 
 
@@ -35,7 +35,7 @@
 
 #### Day 7: Homework
 
-- Complete your [project proposal](project.md) and submit it to Google Classroom by 8 am. 
+- Complete your [Final Project Proposal](final-project-proposal.md) and submit it to Google Classroom by 8 am. 
 - Make progress on your [final project](project.md).
 - Complete homework entry in your Fieldpad.
 
@@ -100,14 +100,14 @@
     - **Prompt 1**: How easy did you find Google Colab to use and modify? How helpful was Gemini?
 
 - Discuss [Final Project](project.md)
-  - when you have finished the above explorations, you can begin work on your project propsosal.
+  - when you have finished the above explorations, you can begin work on your [Final Project Proposal](final-project-proposal.md) .
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 5: Homework
 
-- Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a project proposal in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
-- I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your proposal to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
+- Be sure to read the proposal and project requirements in [Details of the final project](project.md). Then complete a [Final Project Proposal](final-project-proposal.md) in Google Colab similar to [Example Proposal](https://colab.research.google.com/drive/1ebBqtQYsWs-wBeH-OKWxXx4XlG_T8UAj?usp=sharing)
+- I recommend you get started on your project as soon as possible, and I will be available to help you with it in class next time. If you submit your [Final Project Proposal](final-project-proposal.md) to Google Classroom, I will give you feedback on it as soon as I see it, and you can make progress this weekend.
 - Read all of Chapter 4 in Elements of AI, without answering the questions yet.
 - Complete homework entry in your Fieldpad.
 
