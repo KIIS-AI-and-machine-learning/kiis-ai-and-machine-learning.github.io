@@ -19,8 +19,9 @@
   - **Prompt 2**: What did you learn about backpropagation? Explain in your Fieldpad.
 
 - Go to Elements of AI and answer the chapter 5 questions.
-- If you finish the above, you can work on your [final project](project.md).
   - **Prompt 3**: What were the main things you learned from this chapter? Explain.
+
+- If you finish the above, you can work on your [final project](project.md).
 
 - If time permits, get started on your project.
 
