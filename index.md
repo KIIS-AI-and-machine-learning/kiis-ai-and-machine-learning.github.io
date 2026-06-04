@@ -23,8 +23,6 @@
 
 - If you finish the above, you can work on your [final project](project.md).
 
-- If time permits, get started on your project.
-
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
 #### Day 8: Homework
