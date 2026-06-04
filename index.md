@@ -6,7 +6,7 @@
 
 ---
 
-## Day 8: June 4, 2026, 10:45-12:30 (long day)
+## Day 8: June 4, 2026, 11:00-12:30 (long day)
 
 ### Day 8 Theme: Neural Networks Continued and Final Project Work
 
