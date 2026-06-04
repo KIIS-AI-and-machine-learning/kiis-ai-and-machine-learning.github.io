@@ -1,6 +1,6 @@
 # AI/ML Final Project Proposal
 
-Submit a link to a **300-400 word proposal** for your [Final Project](project.md) written in Google Colab that includes the following sections:
+Submit a link to a **350-500 word proposal** for your [Final Project](project.md) written in Google Colab that includes the following sections:
 
 ### Author: Your name
 
