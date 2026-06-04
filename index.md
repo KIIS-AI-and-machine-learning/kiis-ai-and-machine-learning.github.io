@@ -6,6 +6,34 @@
 
 ---
 
+## Day 8: June 4, 2026, 10:45-12:30 (long day)
+
+### Day 8 Theme: Neural Networks Continued and Final Project Work
+
+#### Day 8 class
+
+- Watch [Gradient descent, how neural networks learn - Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=JlToKE4FfcwGQDRa)
+  - **Prompt 1**: What are the primary takeaways from this video in terms of how neural networks learn? Explain.
+
+- Watch [Backpropagation, how neural networks learn - Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=9n2s8Xo7h1mLZt6e)
+
+- Go to Elements of AI and answer the chapter 5 questions.
+- If you finish the above, you can work on your [final project](project.md).
+  - **Prompt 2**: What were the main things you learned from this chapter? Explain.
+
+- If time permits, get started on your project.
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 8: Homework
+
+- Read Chapter 6 in Elements of AI. This time **answer the questions** because they are essays and have no right or wrong answers. We will discuss them in class next time. Be sure you also do the peer reviews of other submissions.
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+
+---
+
 ## Day 7: June 3, 2026, 10:15-11:15 (short day)
 
 ### Day 7 Theme: Neural Networks
