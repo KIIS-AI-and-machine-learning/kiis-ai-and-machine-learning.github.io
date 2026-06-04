@@ -16,10 +16,11 @@
   - **Prompt 1**: What are the primary takeaways from this video in terms of how neural networks learn? Explain.
 
 - Watch [Backpropagation, how neural networks learn - Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=9n2s8Xo7h1mLZt6e)
+  - **Prompt 2**: What did you learn about backpropagation? Explain in your Fieldpad.
 
 - Go to Elements of AI and answer the chapter 5 questions.
 - If you finish the above, you can work on your [final project](project.md).
-  - **Prompt 2**: What were the main things you learned from this chapter? Explain.
+  - **Prompt 3**: What were the main things you learned from this chapter? Explain.
 
 - If time permits, get started on your project.
 
