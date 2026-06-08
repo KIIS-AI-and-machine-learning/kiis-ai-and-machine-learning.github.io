@@ -20,7 +20,7 @@
   - **Prompt 1**: After reading this, discuss your thoughts on the relationship between delegation to AI and dishonest behavior. Also, discuss the implications of this in education as well as your own learning process since AI has become a tool that you can use for learning.
   - **Prompt 2**: Have an AI tool summarize the article and engage in a conversation with the AI about the article. What did you learn from this experience? Discuss in your Fieldpad.
 
-- Sign up for  [Building AI](https://buildingai.elementsofai.com/), read section [1.1 Why AI Matters](https://buildingai.elementsofai.com/Getting-started-with-AI/why-ai-matters), and skim the rest of the text.
+- Sign up for  [Building AI](https://buildingai.elementsofai.com/) and skim the the text reading whatever you wish.
   - **Prompt 3**: What do you think of this text?
 - Make progress on your [final project](project.md).
 
@@ -28,7 +28,7 @@
 
 #### Day 9: Homework
 
-- Read whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
+- Read more of whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
 - Read [OpenAI's 'smartest' AI model was explicitly told to shut down — and it refused](https://www.livescience.com/technology/artificial-intelligence/openais-smartest-ai-model-was-explicitly-told-to-shut-down-and-it-refused) and discuss your thoughts on this in your Fieldpad.
 - Make progress on your [final project](project.md).
 - Complete homework entry in your Fieldpad.
