@@ -6,11 +6,41 @@
 
 ---
 
+## Day 9: June 8, 2026, 11:00-12:30 (long day)
+
+### Day 9 Theme: Ethical AI
+
+#### Day 9 class
+
+- Discuss homework from Day 8.
+
+- Complete [Peer Instruction Questions: PI-ch6-Ethical-AI](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
+
+- Read [Delegation to artificial intelligence can increase dishonest behaviour](https://www.nature.com/articles/s41586-025-09505-x)
+  - **Prompt 1**: After reading this, discuss your thoughts on the relationship between delegation to AI and dishonest behavior. Also, discuss the implications of this in education as well as your own learning process since AI has become a tool that you can use for learning.
+  - **Prompt 2**: Have an AI tool summarize the article and engage in a conversation with the AI about the article. What did you learn from this experience? Discuss in your Fieldpad.
+
+- Sign up for  [Building AI](https://buildingai.elementsofai.com/), read section [1.1 Why AI Matters](https://buildingai.elementsofai.com/Getting-started-with-AI/why-ai-matters), and skim the rest of the text.
+  - **Prompt 3**: What do you think of this text?
+- Make progress on your [final project](project.md).
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 9: Homework
+
+- Read whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 8: June 4, 2026, 11:00-12:30 (long day)
 
 ### Day 8 Theme: Neural Networks Continued and Final Project Work
 
 #### Day 8 class
+
+- Complete [Peer Instruction Questions: PI-ch5-Neural-Networks](https://runestone.academy/runestone/peer/student.html) peer instruction problems.
 
 - Watch [Gradient descent, how neural networks learn - Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=JlToKE4FfcwGQDRa)
   - **Prompt 1**: What are the primary takeaways from this video in terms of how neural networks learn? Explain.
