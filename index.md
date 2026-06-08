@@ -29,6 +29,7 @@
 #### Day 9: Homework
 
 - Read whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
+- Read [OpenAI's 'smartest' AI model was explicitly told to shut down — and it refused](https://www.livescience.com/technology/artificial-intelligence/openais-smartest-ai-model-was-explicitly-told-to-shut-down-and-it-refused) and discuss your thoughts on this in your Fieldpad.
 - Make progress on your [final project](project.md).
 - Complete homework entry in your Fieldpad.
 
