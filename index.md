@@ -28,9 +28,8 @@
 
 #### Day 9: Homework
 
-- Read more of whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
-- Make progress on your [final project](project.md).
-- Complete homework entry in your Fieldpad.
+- Make progress on your [final project](project.md). The deliverables are all due on June 15 at 8 am. Post any questions you have about it in WhatsApp.
+- Complete homework entry in your Fieldpad by describing your progress on the final project.
 
 ---
 
