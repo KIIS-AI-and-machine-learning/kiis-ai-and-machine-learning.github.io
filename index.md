@@ -21,7 +21,7 @@
 - Read [Milei’s proposal to allow ‘non-human corporations’ run by AI causes concern in Argentina](https://buenosairesherald.com/business/tech/mileis-proposal-to-allow-non-human-corporations-run-by-ai-causes-concern-in-argentina)
   - **Prompt 2**: What are your thoughts on non-human companies? Explain.
 
-- Work through chapter 1 of [Building AI](https://buildingai.elementsofai.com/) with a buddy. The beginner level is fine.
+- Work through chapter 1 of [Building AI](https://buildingai.elementsofai.com/) with a buddy. Whatever level you jointly agree to is fine.
   - **Prompt 3**: What do you think of this text now that you've read some of it? Explain.
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
