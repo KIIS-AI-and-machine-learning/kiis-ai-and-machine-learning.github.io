@@ -6,6 +6,34 @@
 
 ---
 
+## Day 10: June 9, 2026, 11:00-12:30 (long day)
+
+### Day 10 Theme: AI in Argentina and Beyond
+
+#### Day 10 class
+
+- Discuss homework from Day 9 and any questions you have about your final project.
+
+- Read [Buenos Aires City: How generative AI is revolutionizing the lives of millions with Azure OpenAI Services](https://www.microsoft.com/en/customers/story/21596-government-of-the-city-of-buenos-aires-azure-open-ai-service#customers-share-modal-dialog)
+  - **Prompt 1**: What are your thoughts on this? Explain.
+
+- Read [Milei looks to lay the foundations to create ‘non-human companies’](https://buenosairesherald.com/business/milei-looks-to-lay-the-foundations-to-create-non-human-companies)
+- Read [Milei’s proposal to allow ‘non-human corporations’ run by AI causes concern in Argentina](https://buenosairesherald.com/business/tech/mileis-proposal-to-allow-non-human-corporations-run-by-ai-causes-concern-in-argentina)
+  - **Prompt 2**: What are your thoughts on non-human companies? Explain.
+
+- Work through chapter 1 of [Building AI](https://buildingai.elementsofai.com/) with a buddy. The beginner level if fine.
+  - **Prompt 3**: What do you think of this text? Explain.
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 9: Homework
+
+- Read more of whatever interests you in  [Building AI](https://buildingai.elementsofai.com/). Discuss what you chose to read and what you learned from it in your Fieldpad.
+- Make progress on your [final project](project.md).
+- Complete homework entry in your Fieldpad.
+
+---
+
 ## Day 9: June 8, 2026, 11:00-12:30 (long day)
 
 ### Day 9 Theme: Ethical AI
