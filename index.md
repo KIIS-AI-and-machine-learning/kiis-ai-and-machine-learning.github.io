@@ -6,6 +6,36 @@
 
 ---
 
+## Day 11: June 11, 2026, 11:00-12:30 (long day)
+
+### Day 11 Theme: Peer Review and Final Project Work
+
+#### Day 11 class
+
+- Discuss any questions you have about your final project.
+- Show an example project from last year and discuss it. 
+
+- We are going to spend most of own time pairing off and giving feedback on each other's final project drafts. (I am hoping to do two rounds, so you get feedback from two different people.) 
+- Please be constructive and helpful in your feedback. Here are some guidelines for giving feedback on the report:
+  1. First, read your partner's proposal so you know what they are trying to accomplish.
+  1. Then, read and run the draft of the report in their CoLab Notebook.
+  1. Here be constructive feedback on the report, including:
+    - Does the report use Markdown and sections effectively to organize the report and make it easy to read?
+    - Does the report clearly explain the data sets and all of the AI and ML techniques used?
+    - Does the report include a clear description of the results and what was learned from them?
+    - Does the report include appropriate visualizations to support the analysis?
+    - Does the report follow all of the project requirements?
+    - Are there any areas where the report could be made even better in terms of clarity, depth of analysis, or presentation? Remember feedback is helpful!
+
+- **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
+
+#### Day 11: Homework
+
+- Complete [final project](project.md). The deliverables are all due on June 15 at 8 am. Post any questions you have about it in WhatsApp.
+- Complete homework entry in your Fieldpad by describing what you did to complete the final project.
+
+---
+
 ## Day 10: June 9, 2026, 11:00-12:30 (long day)
 
 ### Day 10 Theme: AI in Argentina and Beyond
@@ -26,7 +56,7 @@
 
 - **Post-class reflection:** Reflect on the day’s activities and discussions in your Fieldpad. What did you learn? Explain.
 
-#### Day 9: Homework
+#### Day 10: Homework
 
 - Make progress on your [final project](project.md). The deliverables are all due on June 15 at 8 am. Post any questions you have about it in WhatsApp.
 - Complete homework entry in your Fieldpad by describing your progress on the final project.
