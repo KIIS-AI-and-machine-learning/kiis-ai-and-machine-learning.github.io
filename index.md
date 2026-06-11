@@ -6,6 +6,33 @@
 
 ---
 
+## Day 12: June 15, 2026, 11:00-12:30 (long day)
+
+### Day 12 Theme: Three project presentations
+
+- We will start with the final project presentations. Each presenter will have around 10 minutes to present and demo, followed by 5 minutes for questions. This will be followed by 10 minutes to respond to the set of prompts. For each of the presentations answer the appropriate set of prompts:
+  - **Prompts 1 and 2**:
+  - Name of the presenter and topic of the presentation.
+  - What is the most important thing you learned from this presentation?
+  - On a scale of 1 (minimal effort) to 10 (maximum effort), how much effort do you believe the presenter put into this project? Explain.
+  - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
+  - Following your OWN presentation, complete **Prompt 3**: What do you think you did well in your presentation? What do you think you could have done better? Explain.
+
+1. If time permits, we will discuss the course overall.
+
+#### Day 12 class
+
+#### Day 12: Homework
+
+1. In your Fieldpad, reflect on the project specifically:
+  -  describe the most important things that you learned in completing your project.
+  - Please comment on what you experienced as the most positive aspect(s) of this project.
+  - Please comment on any frustrations you experienced in this project.  Is there anything the instructor could do to help future students overcome such difficulties?
+
+1. How do you think this course will impact your future practices and career? Explain.
+
+---
+
 ## Day 11: June 11, 2026, 11:00-12:30 (long day)
 
 ### Day 11 Theme: Peer Review and Final Project Work

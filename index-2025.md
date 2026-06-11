@@ -36,7 +36,7 @@
 
 #### Day 11: Homework
 
-1. In your Fieldpad, pick one of the following and write a 1-2 paragra`ph reflection on it:
+1. In your Fieldpad, pick one of the following and write a 1-2 paragraph reflection on it:
   - How do you think AI will impact your future career? How do you think it will impact the world in general? What skills do you think will remain uniquely human as AI becomes more capable?
   - The U.S. House recently passed a provision in the federal budget reconciliation bill that would impose a 10-year moratorium on state AI laws, preventing states from enforcing existing AI regulations Daily MontananInside Privacy. Over 260 state legislators from all 50 states have signed a bipartisan letter opposing this federal preemption. How do you think should AI should be regulated?
   - Deepfakes have permeated political ads and social media, and have even been implicated in a rise in teenage suicides. What ethical responsibilities do AI developers have?
