@@ -18,7 +18,7 @@
   - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
   - Following your OWN presentation, complete **Prompt 3**: What do you think you did well in your presentation? What do you think you could have done better? Explain.
 
-1. If time permits, we will discuss the course overall.
+- If time permits, we will discuss the course overall.
 
 #### Day 12 class
 
@@ -29,7 +29,7 @@
   - Please comment on what you experienced as the most positive aspect(s) of this project.
   - Please comment on any frustrations you experienced in this project.  Is there anything the instructor could do to help future students overcome such difficulties?
 
-1. How do you think this course will impact your future practices and career? Explain.
+2. How do you think this course will impact your future practices and career? Explain.
 
 ---
 
