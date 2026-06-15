@@ -6,9 +6,39 @@
 
 ---
 
+## Day 13: June 16, 2026, 11:15-1:00 (very long day)
+
+### Day 13 Theme: Three final project presentations
+
+#### Day 13 class
+
+- Like yesterday, we will start with the final project presentations. Each presenter will have around 10-12 minutes to present and demo, followed by an additional 5 minutes for questions. This will be followed by 10 minutes to respond to the set of prompts. For each of the presentations answer the appropriate set of prompts:
+  - **Prompts 1 and 2**:
+  - Name of the presenter and topic of the project.
+  - What is the most important thing you learned from this project?
+  - On a scale of 1 (minimal effort) to 10 (maximum effort), how much effort do you believe the presenter put into this project? Explain.
+  - On a scale of 1 (not at all effective i.e. difficult to understand throughout) to 10 (extremely effective i.e. explained even challenging concepts very clearly throughout), how effective was this project? What could the presenters have done do to make it more effective?
+  - Following your OWN presentation, complete **Prompt 3**: What do you think you did well in the presentation of your project and in your notebook? What do you think you could have done better? Explain.
+
+- If time permits, we will discuss the course overall.
+
+#### Day 13: Homework
+
+1. In your Fieldpad, reflect on the course specifically:
+  - Describe how much time you estimate you spent on the course on avearage between each class session, not counting the time you worked on the final project.
+  - Describe the most important things that you learned in the course, and why you found them important.
+  - Please comment on what you experienced as the most positive aspect(s) of the course.
+  - Please comment on any changes you would recommend for future offerings of the course, and explain why you think these changes would be helpful.  
+
+2. How do you think this course will impact your future practices and/or career? Explain.
+
+---
+
 ## Day 12: June 15, 2026, 11:15-1:00 (very long day)
 
 ### Day 12 Theme: Three project presentations
+
+#### Day 12 class
 
 - We will start with the final project presentations. Each presenter will have around 10-12 minutes to present and demo, followed by an additional 5 minutes for questions. This will be followed by 10 minutes to respond to the set of prompts. For each of the presentations answer the appropriate set of prompts:
   - **Prompts 1 and 2**:
@@ -20,8 +50,6 @@
 
 - If time permits, we will discuss the course overall.
 
-#### Day 12 class
-
 #### Day 12: Homework
 
 1. In your Fieldpad, reflect on the project specifically:
@@ -29,7 +57,7 @@
   - Please comment on what you experienced as the most positive aspect(s) of this project.
   - Please comment on any frustrations you experienced in this project.  Is there anything the instructor could do to help future students overcome such difficulties?
 
-2. How do you think this course will impact your future practices and career? Explain.
+2. How do you think this course will impact your future practices and/or career? Explain.
 
 ---
 
