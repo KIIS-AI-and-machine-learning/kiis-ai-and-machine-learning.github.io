@@ -26,6 +26,7 @@
 
 1. In your Fieldpad, reflect on the course specifically:
   - Describe how much time you estimate you spent on the course on avearage between each class session, not counting the time you worked on the final project.
+  - Please comment on the textbook and whether you think using solely Building AI, the second book, would be preferable to using the first at all.
   - Describe the most important things that you learned in the course, and why you found them important.
   - Please comment on what you experienced as the most positive aspect(s) of the course.
   - Please comment on any changes you would recommend for future offerings of the course, and explain why you think these changes would be helpful.  
