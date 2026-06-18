@@ -8,7 +8,7 @@
 
 ## Day 13: June 16, 2026, 11:15-1:00 (very long day)
 
-### Day 13 Theme: Three final project presentations
+### Day 13 Theme: Final Project Presentations and Course Reflection
 
 #### Day 13 class
 
